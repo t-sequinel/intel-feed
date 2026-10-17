@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16",
-  "generatedAtUtc": "2026-10-16T05:30:47.325Z",
+  "generatedAt": "2026-10-17",
+  "generatedAtUtc": "2026-10-17T05:30:47.376Z",
   "count": 60,
-  "tableRows": 2309,
+  "tableRows": 2390,
   "newestPublished": "2026-10-16",
-  "oldestPublished": "2026-10-15",
+  "oldestPublished": "2026-10-16",
   "bySource": {
     "unknown": 60
   },
@@ -18,7 +18,7 @@
       "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Tesla has finally re-unveiled its next-generation Roadster, originally unveiled in quite different form back in 2017. So since I did a technical breakdown of how it would work last time, I thought I’d give a quick update with what we know about the new version. more…"
+      "summary": "Tesla has finally re-unveiled its next-generation Roadster, originally unveiled in quite different form back in 2017. So since I did a technical breakdown of how it would work last time, I thought I’d give a quick update with what we know about the new version. (Update: Now that various media videos are out showing a tour of the car, we’re updating this article with answers to some of the questions that were not answered in the product demo). more…"
     },
     {
       "url_key": "https://electrek.co/2026/10/15/tesla-unveils-cyberfied-new-roadster-kickflip/",
@@ -40,7 +40,7 @@
       "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Until the Tesla Roadster, “there was only one car in the flying car market,” Alef said. To welcome Tesla to the race, Alef released a video of its flying car flying over the new Roadster. more…"
+      "summary": "Until the Tesla Roadster, “there was only one car in the flying car market,” Alef said. To welcome Tesla to the race, Alef released a video of its flying car flying over the old Roadster. more…"
     },
     {
       "url_key": "https://insideevs.com/news/812156/tesla-roadster-thrusters/",
@@ -55,7 +55,7 @@
     },
     {
       "url_key": "https://insideevs.com/news/812154/tesla-roadster-street-legal-elon-musk/",
-      "title": "Will The Flying Tesla Roadster Be Street Legal? Elon Musk Won't Say",
+      "title": "Will The Flying Tesla Roadster Be Street Legal? Nope.",
       "source": "unknown",
       "host": "",
       "url": "https://insideevs.com/news/812154/tesla-roadster-street-legal-elon-musk/",
@@ -131,543 +131,543 @@
       "summary": "Tesla first started hinting at a replacement for its very first model—the Lotus Elise-based Roadster—in the early 2010s. In late 2017, the company unveiled a concept version. A much more ambitious car than the original, this Roadster came with typical over-the-top Elon Musk claims like 0-60 in 1.9 seconds, 250-mph top speed, and a 620-mile […]"
     },
     {
-      "url_key": "https://www.diariomotor.com/competicion/noticia/ford-no-especulaciones-indycar/",
-      "title": "Ford Racing no deja volar las especulaciones y descarta volver a la IndyCar",
+      "url_key": "https://www.autonocion.com/balnearios-gallegos-uvigo/",
+      "title": "Los balnearios gallegos se quejan del gasto energético y la Universidade de Vigo ya tiene plan: una planta piloto en Ourense que combina geotermia y fotovoltaica para calentar el agua termal de 25-30 grados a 80",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/competicion/noticia/ford-no-especulaciones-indycar/",
-      "published_at": "2026-10-15",
+      "url": "https://www.autonocion.com/balnearios-gallegos-uvigo/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Esta semana, Mark Rushbrook, director de Ford Racing, emitió unas declaraciones que fueron interpretadas como un posible regreso del fabricante a la IndyCar, tras advertir el movimiento que se estaba generando a nivel mediático, el propio Rushbrook salió a aclarar lo dicho. Si bien Ford Racing había estado evaluando volver a la IndyCar con motores v6 de 2.4 litros con turbo y sistema híbrido, la respuesta ahora mismo es no. Aclaró el jefe de Ford Racing que si bien la división contempla participar en varias competiciones internacionales, retornar a la IndyCar no es un proyecto que esté avanzado en ninguna dirección ya que los esfuerzos y recursos han sido asignados a las iniciativas tanto en el Campeonato Mundial de Resistencia como al Campeonato Mundial de Rally. Así que la categoría propiedad de Roger Penske tendrá que esperar por un tercer suministrador de motores, primero se habló de"
+      "summary": "En Ourense hay un problema que suena casi a capricho de la naturaleza. El agua ... Read more"
     },
     {
-      "url_key": "https://www.theautopian.com/here-are-more-fun-facts-about-articulated-buses-cotd/",
-      "title": "Here Are More Fun Facts About Articulated Buses: COTD",
+      "url_key": "https://www.autonocion.com/byd-seagull-dolphin-surf-2027-china/",
+      "title": "El nuevo BYD Seagull (Dolphin Surf en Europa) se estrena en China y ahora es casi tan grande como un VW Golf, suma tracción trasera y un nuevo frunk: ¿jaque mate Geely E2?",
       "source": "unknown",
       "host": "",
-      "url": "https://www.theautopian.com/here-are-more-fun-facts-about-articulated-buses-cotd/",
-      "published_at": "2026-10-15",
+      "url": "https://www.autonocion.com/byd-seagull-dolphin-surf-2027-china/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Most people likely commute to work in cars, buses, trains, and planes without thinking too much about how they work. But if you think about it, these vehicles are pretty amazing in how they work. Articulated buses look simple, but there’s a lot going on under the skin. I wrote about how the “bendy” bus […] The post Here Are More Fun Facts About Articulated Buses: COTD appeared first on The Autopian."
+      "summary": "BYD va a toda prisa evolucionando sus modelos actuales a fin de seguir siendo una ... Read more"
     },
     {
-      "url_key": "https://www.autonocion.com/gran-turismo-actualizacion-spec-iv/",
-      "title": "Gran Turismo celebra sus 30 años con una nueva actualización gratuita: 6 coches nuevos, un circuito y un mando exclusivo de edición limitada para PS5",
+      "url_key": "https://www.autonocion.com/lamborghini-temerario-policia-de-dubai/",
+      "title": "Un Lamborghini Temerario de 920 CV es la última incorporación al garaje de la Policia de Dubái: de 0 a 100 en 2,7 segundos… pero no servirá para perseguir «a los malos»",
       "source": "unknown",
       "host": "",
-      "url": "https://www.autonocion.com/gran-turismo-actualizacion-spec-iv/",
-      "published_at": "2026-10-15",
+      "url": "https://www.autonocion.com/lamborghini-temerario-policia-de-dubai/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Gran Turismo 7 recibe una de sus mayores actualizaciones gratuitas hasta la fecha. Tanto Sony ... Read more"
+      "summary": "La Policia de Dubái amplia de nuevo su flota de superdeportivos. La última adquisición es ... Read more"
     },
     {
-      "url_key": "https://www.autonocion.com/sol-problema-placas-eslovenia/",
-      "title": "El sol tiene un problema para las placas: la radiación UV las degrada y les roba potencia. Investigadores eslovenos han modelado una capa que convierte esos rayos dañinos en luz azul y, de paso, alarga la vida del panel. Más del 4% de energía extra en 10 años",
+      "url_key": "https://www.autonocion.com/presentacion-tesla-roadster-2026-vuela/",
+      "title": "El Tesla Roadster puede volar… literalmente: acelera de 0 a 100 km/h en poco más de 1 segundo y utiliza propulsores Space X para hacer loopings en el aire… llegará en 2028",
       "source": "unknown",
       "host": "",
-      "url": "https://www.autonocion.com/sol-problema-placas-eslovenia/",
-      "published_at": "2026-10-15",
+      "url": "https://www.autonocion.com/presentacion-tesla-roadster-2026-vuela/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Piensa en alguien que toma el sol en la playa sin protección. Al principio, la ... Read more"
+      "summary": "La espera ha terminado. Tesla ha revelado definitivamente el diseño y las capacidades del Tesla ... Read more"
     },
     {
-      "url_key": "https://www.autonocion.com/bmw-ix3-m60-xdrive/",
-      "title": "El BMW iX3 M60 xDrive sigue siendo un SUV eléctrico futurista, pero esta versión tiene: 612 CV, 754 km de autonomía y pasa de 0 a 100 en 3,9 segundos",
+      "url_key": "https://www.autonocion.com/cable-chipre-electrico/",
+      "title": "Un cable de 1.900 millones para sacar a Chipre de su aislamiento eléctrico: 898 km submarinos, 3.000 metros de profundidad, 1.000 MW de capacidad y una segunda fase que llegaría hasta Israel",
       "source": "unknown",
       "host": "",
-      "url": "https://www.autonocion.com/bmw-ix3-m60-xdrive/",
-      "published_at": "2026-10-15",
+      "url": "https://www.autonocion.com/cable-chipre-electrico/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "El primer modelo en estrenar la era «Neue Klasse» en BMW se «pone serio». Ahora, ... Read more"
+      "summary": "Imagina que vives en un lugar donde encender la luz cuesta más que en cualquier ... Read more"
     },
     {
-      "url_key": "https://www.autonocion.com/renault-8-gordini-produccion-limitada/",
-      "title": "Ya dije que el Renault 8 Gordini podría llegar a la producción, pero no imaginaba que tendríamos «pistas» tan pronto: el director ejecutivo de Renault se moja",
+      "url_key": "https://www.autonocion.com/porsche-mission-s/",
+      "title": "Así es el superdeportivo con motor central que completará la gama por encima del 911: el Porsche Mission S adelanta el futuro de la marca con un estilo mucho más analógico",
       "source": "unknown",
       "host": "",
-      "url": "https://www.autonocion.com/renault-8-gordini-produccion-limitada/",
-      "published_at": "2026-10-15",
+      "url": "https://www.autonocion.com/porsche-mission-s/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Renault ha decidido acompañar la electrificación parcial de su gama con un «brochazo» de nostalgia. ... Read more"
+      "summary": "Porsche presenta el Mission S, un prototipo que anticipa la próxima generación de superdeportivos de ... Read more"
     },
     {
-      "url_key": "https://www.autonocion.com/xpeng-l03-precio-espana/",
-      "title": "El Xpeng L03 ya a la venta en España: eléctrico de autonomía extendida que cumple con más de 1.000 km sin parar, diseño español y desde 37.500 euros",
+      "url_key": "https://www.motorpasion.com/seguridad/marcas-presumen-coches-control-voz-hace-40-anos-te-ponian-automaticamente-cinturon-seguridad",
+      "title": "Las marcas presumen de coches con control por voz, pero hace 40 años te ponían automáticamente el cinturón de seguridad",
       "source": "unknown",
       "host": "",
-      "url": "https://www.autonocion.com/xpeng-l03-precio-espana/",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/seguridad/marcas-presumen-coches-control-voz-hace-40-anos-te-ponian-automaticamente-cinturon-seguridad",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Xpeng anuncia la llegada del Xpeng L03 a su red comercial en España. El SUV ... Read more"
+      "summary": "A lo largo de la historia del automóvil, se han inventado todo tipo de cosas. Algunas llegaron para quedarse y otras se han perdido con el paso del tiempo. Entre estas últimas está el cinturón automático. Fue una solución relativamente popular en Estados Unidos en los años 80. En parte, surgió para mejorar el confort del conductor, pero su objetivo principal era que los fabricantes cumplieran la ley sin gastar tanto dinero. Con motor eléctrico o con mucho ingenio y sin motores Durante los años 70 y 80 del siglo XX, la NHTSA estadounidense (un organismo similar a la DGT española) se dio cuenta de que demasiados conductores no utilizaban cinturón de seguridad, por lo que diseñó una normativa para intentar reducir las consecuencias de los accidentes en los que estaban implicados conductores sin el cinto puesto. En Motorpasión ¡No te pongas el cinturón, conduzcas en reserva o des un portazo!"
     },
     {
-      "url_key": "https://www.autonocion.com/geely-monjaro-em-i-precio-espana/",
-      "title": "El Geely Monjaro EM-I ya tiene precio en España: 334 CV, tracción total y 116 km de autonomía eléctrica por menos de 40.000 euros",
+      "url_key": "https://www.motorpasion.com/revision/quiero-guardar-coche-moto-plaza-aparcamiento-garaje-comunitario-esto-que-dice-ley-al-respecto",
+      "title": "La Ley de Propiedad Horizontal es clara sobre aparcar dos vehículos en una misma plaza de garaje",
       "source": "unknown",
       "host": "",
-      "url": "https://www.autonocion.com/geely-monjaro-em-i-precio-espana/",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/revision/quiero-guardar-coche-moto-plaza-aparcamiento-garaje-comunitario-esto-que-dice-ley-al-respecto",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Se estrenó en Europa en el Salón del Automóvil de París y, apenas unos días ... Read more"
+      "summary": "Uno de los conflictos más recurrentes en las comunidades de vecinos tiene que ver con el uso de las plazas de aparcamiento en los garajes comunitarios. Lo habitual es que los propietarios de estas plazas, o los inquilinos, en caso de alquiler, las utilicen para estacionar su vehículo, pero hay quien aprovecha para dejar más vehículos en la misma plaza, como una moto, bicicletas, patinetes eléctricos e incluso un par de coches. Hay vecinos que se quejan cuando ven que alguien está haciendo esto, reclamando que no se pueden aparcar varios vehículos en la misma plaza de garaje. Esto es lo que dice la normativa en España al respecto. La clave es no perjudicar al resto de vecinos Rara es la comunidad de vecinos en la que no hay algún problema entre los diferentes propietarios o inquilinos. Uno de los conflictos más extendidos tiene que ver con el uso de las plazas de aparcamiento en el garaje"
     },
     {
-      "url_key": "https://www.autonocion.com/porsche-panamera-2027-fotos-espia/",
-      "title": "Cazamos rodando casi sin camuflaje al Porsche Panamera 2027: una pincelada en su diseño que lo acerca a los deportivos y lo aleja de los Gran Turismo",
+      "url_key": "https://www.motorpasion.com/seguridad/cambian-senal-limitacion-velocidad-para-hacer-broma-400-conductores-multados-radar-a-70-km-h-lugar-50-km-h-permitidos",
+      "title": "Cambian una señal de limitación de velocidad para hacer una broma: 400 conductores multados por radar a 70 km/h en lugar de los 50 km/h permitidos",
       "source": "unknown",
       "host": "",
-      "url": "https://www.autonocion.com/porsche-panamera-2027-fotos-espia/",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/seguridad/cambian-senal-limitacion-velocidad-para-hacer-broma-400-conductores-multados-radar-a-70-km-h-lugar-50-km-h-permitidos",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "El Porsche Panamera recibirá un nuevo restyling, actualizando para la ocasión su diseño exterior. De ... Read more"
+      "summary": "Creían que respetaban el límite de velocidad, pero fueron multados por un radar sin saberlo. El pasado septiembre, en Haldensleben, en el estado de Sajonia-Anhalt, en Alemania, cerca de 400 conductores fueron víctimas de una broma de mal gusto. Varios individuos lograron colocar una señal falsa de limitación de velocidad que marcaba 70 km/h en lugar de los 50 km/h permitidos. Los autores de esta broma probablemente se rieron mucho. Los conductores que el pasado septiembre pasaron por Haldensleben (Alemania), algo menos. 20 km/h por encima del límite real El problema principal de esta historia es que los conductores no tenían forma alguna de saber que se trataba de una señal falsa. Incluso los coches equipados con un asistente inteligente de velocidad (ISA, por sus siglas en inglés y obligatoria en todos los turismos nuevos desde julio de 2024) consideraron el límite de la vía como de 50 "
     },
     {
-      "url_key": "https://www.autonocion.com/hidrogeno-verde-technion/",
-      "title": "Producir hidrógeno verde sale carísimo… hasta que alguien ha dicho: ¿y si en vez de tirar el oxígeno, fabricamos algo que sí se vende? El Technion lo ha hecho con un 98% de eficiencia",
+      "url_key": "https://www.motorpasion.com/furgonetas-y-caravanas/pequena-cabina-para-irse-vacaciones-este-jubilado-ha-camperizado-su-clasico-citroen-2cv-cocina-cama-2-5-metros",
+      "title": "“Es una pequeña cabina para irse de vacaciones”: este jubilado ha camperizado su clásico Citroën 2CV con una cocina y una cama de 2,5 metros",
       "source": "unknown",
       "host": "",
-      "url": "https://www.autonocion.com/hidrogeno-verde-technion/",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/furgonetas-y-caravanas/pequena-cabina-para-irse-vacaciones-este-jubilado-ha-camperizado-su-clasico-citroen-2cv-cocina-cama-2-5-metros",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Piensa en un panadero que cada mañana hace pan. Amasa la harina, la mete en ... Read more"
+      "summary": "En el Salón de París, Citröen ha presentado algo que ha removido el corazón de más de uno: el 2CV. Pero no contentos con ellos, la marca francesa ha traído una versión furgoneta. Sin embargo, como lo clásico nunca muere y el estilo original nunca pasará de moda, hay quien todavía sobrevive con el modelo original. Por ejemplo, Bernd, que no sólo lo mantiene, sino que lo usa habitualmente en formato camper (aunque por fuera no lo parezca). Este hombre ha aprovechado el ya de por sí reducido espacio del modelo francés para preparar una zona donde dormir y una pequeña cocina con la que organizar escapadas sin necesidad de llevar una furgoneta. Una pequeña cocina y espacio para lo imprescindible Desde fuera no se parece a ninguna autocaravana convencional, de hecho, todo lo contrario: la intención de Bernd es que se parezca lo máximo posible al modelo de serie, al original, pero con el interi"
     },
     {
-      "url_key": "https://www.autonocion.com/byd-flash-charging-100-en-europa-en-2026/",
-      "title": "El plan de BYD para que te pases al coche eléctrico: instalarán 100 puestos de carga ultrarrápida de 1.500 kW en Europa antes de que acabe 2026 y prevén 3.000 para el año 2027",
+      "url_key": "https://www.motorpasion.com/coches-electricos/futuros-mecanicos-empiezan-a-verle-orejas-al-lobo-coche-electrico-fastidio-desastre",
+      "title": "Los futuros mecánicos empiezan a verle las orejas al lobo con el coche eléctrico: “Es un fastidio y un desastre”",
       "source": "unknown",
       "host": "",
-      "url": "https://www.autonocion.com/byd-flash-charging-100-en-europa-en-2026/",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/coches-electricos/futuros-mecanicos-empiezan-a-verle-orejas-al-lobo-coche-electrico-fastidio-desastre",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "BYD ha desarrollado en China un sistema de carga ultrarrápida que permite pasar del 10 ... Read more"
+      "summary": "Huelga decir que, a estas alturas, el coche eléctrico está cambiando la industria del automóvil. Lo que pasa es que no todo el mundo está preparado para asumir esa transformación, tampoco quienes se están formando para trabajar en los talleres durante las próximas décadas. Durante el Salón del Automóvil de París, algunos alumnos de mecánica entrevistados por TV5 Monde dejaron claro que la electrificación no es precisamente el futuro que habían imaginado cuando decidieron estudiar esta profesión. La mecánica ya no es la de antes “Prefiero los motores de combustión, hay demasiada electricidad aquí”, decía una de las jóvenes entrevistadas, cuyo rechazo es transversal: “Para nosotras es un fastidio”. En Motorpasión El fin del mecánico tradicional por culpa del coche eléctrico: la factura millonaria y los riesgos extremos de reparar la nueva movilidad Las alumnas de este programa de formación"
     },
     {
-      "url_key": "https://www.motorpasion.com/porsche/porsche-mission-s",
-      "title": "Porsche Mission S: el deportivo que estará por encima del 911 es el encargado de abrir una nueva era para salvar a Porsche",
+      "url_key": "https://www.motorpasion.com/seguridad/trafico-fluido-tenemos-que-aprender-a-usar-rotondas-policia-local-utebo-confirma-radar-movil-que-transformacion-n-232-exito",
+      "title": "“El tráfico es fluido, pero aún tenemos que aprender a usar las rotondas”: la Policía Local de Utebo confirma con un radar móvil que la transformación de la N-232 es un éxito",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/porsche/porsche-mission-s",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/seguridad/trafico-fluido-tenemos-que-aprender-a-usar-rotondas-policia-local-utebo-confirma-radar-movil-que-transformacion-n-232-exito",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Hay coches que nacen para ocupar un hueco en el catálogo y otros que llegan con la misión de abrir una nueva etapa en la historia de una marca. El Porsche Mission S pertenece, al menos sobre el papel, a la segunda categoría. No es un modelo de producción ni un simple ejercicio de diseño para llamar la atención en un salón del automóvil. Es la primera declaración de intenciones de Porsche sobre una nueva familia de superdeportivos que se situará por encima del mítico 911. En Motorpasión Este experto avisa de lo que ve en el desguace a diario: \"Cada vez llegan más unidades procedentes de China antes de lo previsto\" Y eso, en una marca cuya identidad deportiva lleva décadas girando alrededor de su modelo más emblemático, no es precisamente un movimiento menor. El anuncio tiene una importancia especial porque Porsche no plantea el Mission S como un hiperdeportivo excepcional, de esos que se "
+      "summary": "El proyecto para transformar la carretera N-232 a su paso por la localidad de Utebo, en la provincia de Zaragoza, Aragón, ha necesitado tiempo para completarse, y también un presupuesto de más de 8 millones de euros, pero por fin se completó y pudo abrirse al tráfico este verano. Meses después de ponerse en marcha esta transformación para que el área esté mucho más urbanizada, la Policía Local de Utebo ha comprobado el funcionamiento del tráfico en la zona. El radar móvil no miente Durante mucho tiempo, la carretera N-232 ha pasado por Utebo, pero el municipio aragonés puso en marcha un proyecto para transformar esta vía y convertir la antigua carretera en un entorno mucho más urbano y agradable para los vecinos. La idea era humanizar este área y, tras varios meses de obra y un presupuesto millonario, el área se ha transformado por completo. En Motorpasión Si piensas que España es el par"
     },
     {
-      "url_key": "https://www.motorpasion.com/videos-de-coches/esta-ford-f-250-1978-llevaba-20-anos-abandonada-contenedor-maritimo-ver-como-limpian-dejarla-como-nueva-adictivo",
-      "title": "Esta Ford F-250 de 1978 llevaba 20 años abandonada en un contenedor marítimo. Ver cómo la limpian hasta dejarla como nueva es adictivo",
+      "url_key": "https://www.motorpasion.com/industria/ayuso-cierra-estacion-metro-sol-para-hacer-trabajos-limpieza-urgentes-acampada-cercanias-no",
+      "title": "Ayuso cierra la estación de Metro de Sol para hacer trabajos de limpieza \"urgentes\" por la acampada. Cercanías no",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/videos-de-coches/esta-ford-f-250-1978-llevaba-20-anos-abandonada-contenedor-maritimo-ver-como-limpian-dejarla-como-nueva-adictivo",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/industria/ayuso-cierra-estacion-metro-sol-para-hacer-trabajos-limpieza-urgentes-acampada-cercanias-no",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Si te gusta la limpieza en general, y la limpieza de los coches en particular, estoy seguro de que este vídeo te va a enganchar. Los chicos de WD Detailing han rescatado una Ford F-250 de 1978 del contenedor marítimo en el que llevaba 20 años abandonada y la han limpiado a fondo. El resultado es sencillamente espectacular. Para su dueño ha sido lo más parecido a viajar en el tiempo Hay algo en los vídeos de limpieza de coches que engancha, al menos a los que nos gustan los coches, y debemos ser muchos porque este tipo de vídeos arrasan en redes sociales. En Motorpasión Limpiar los neumáticos no es ninguna tontería, más bien es la clave para que tu coche se vea como nuevo Solo hay que ver la cantidad de reproducciones que tienen los que suben los chicos de WD Detailing, unos especialistas en detallado (así se llama el proceso de limpiar a fondo un coche) que tienen mucha experiencia en de"
+      "summary": "\"Me acaban de comunicar que vamos a tener que cerrar la estación de Sol de Metro porque hay que hacer trabajos de limpieza urgentes\". Así ha comunicado la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, esta decisión durante un desayuno en esRadio. Según ha comunicado la propia Comunidad de Madrid, la estación ya se encuentra cerrada y los trenes no efectuarán parada. Sin embargo, desde Renfe Cercanías aseguran que no se ha detectado ningún problema. Sin Metro, pero con Renfe Metro de Madrid (una empresa pública de la Comunidad de Madrid) ha informado de que la estación de Sol se ha cerrado para proceder a la limpieza de los pozos de ventilación \"debido a la acumulación de residuos provocada por la acampada en el exterior\". En Motorpasión Si el autobús está lleno, primero los vecinos: la propuesta del PSOE por el turismo masivo Recordemos que desde el día 26 de septiembre la Pue"
     },
     {
-      "url_key": "https://www.motorpasion.com/revision/despues-30-pico-anos-echando-gasolina-experto-me-ha-dado-razon-aditivos-para-coche-no-valen-nada",
-      "title": "Después de 30 y pico años echando gasolina, un experto me ha dado la razón: los aditivos para el coche no valen de nada",
+      "url_key": "https://www.motorpasion.com/formula1/fernando-alonso-retrata-nueva-formula-1-se-han-cargado-circuitos-miticos-spa-fue-casi-vergonzoso",
+      "title": "Fernando Alonso retrata la nueva Fórmula 1: \"Se han cargado los circuitos míticos. Lo de Spa fue casi vergonzoso\"",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/revision/despues-30-pico-anos-echando-gasolina-experto-me-ha-dado-razon-aditivos-para-coche-no-valen-nada",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/formula1/fernando-alonso-retrata-nueva-formula-1-se-han-cargado-circuitos-miticos-spa-fue-casi-vergonzoso",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "\"Lleno, y además, ¿le ponemos un aditivo? Le protegerá el motor, que aquí la gasolina es mala\". Volver de Francia o Suiza a Galicia en coche, por Navidades o en verano tenía ciertos rituales, como parar a comer en Irún o pillar una empanada en Arteixo antes de llegar. Y que en todas las gasolineras desde la frontera francesa hasta El Bierzo, siempre intentaban vender a mis padres y a mis tíos un aditivo a la hora de llenar el depósito. Han pasado los años y todavía en alguna ocasión me lo siguen proponiendo. Y es que últimamente vuelven a resurgir. ¿Realmente aportan algo? ¿Van a proteger el motor, hacer que consuma menos o que tenga más potencia? La realidad es que no aportan nada. Y no lo digo yo, sino todos los expertos del sector. A vueltas con los aditivos de la gasolina Todos los combustibles contienen ya aditivos, incluso algunos en función de la época del año en la que se va a co"
+      "summary": "La nueva Fórmula 1, con motores divididos prácticamente a partes iguales entre la electricidad y la combustión, sigue sin convencer a muchos. Prácticamente a nadie. El último en alzar la voz ha vuelto a ser Fernando Alonso, uno de los más críticos con el sistema. El asturiano, en una entrevista con GPblog, ha puesto el foco en otros damnificados por estos cambios: los circuitos. Para Fernando Alonso, otro de los problemas de la nueva Fórmula 1 es que está destrozando los circuitos clásicos. A sus 45 años, afirma que nunca había disfrutado tan poco de pilotar en trazados míticos como Silverstone o Suzuka. Lo de Spa-Francorchamps lo coloca en otro nivel. Para Alonso, eso fue \"casi vergonzoso\". Alonso cree que circuitos como Silverstone o Suzuka ahora son peores que nunca 2026 fue el año de la gran revolución técnica de la Fórmula 1, pero no para bien. El aumento de la electrificación y man"
     },
     {
-      "url_key": "https://www.motorpasion.com/revision/parar-momento-aparcar-ley-clara-plazas-para-personas-movilidad-reducida-esten-donde-esten-multa-tambien",
-      "title": "Ni parar un momento ni aparcar: la ley es clara con las plazas para personas con movilidad reducida estén donde estén, y la multa también",
+      "url_key": "https://www.motorpasion.com/seguridad/condenado-ganadero-a-pagar-4-300-euros-robar-radar-remolque-se-llevo-su-tractor-tiro-rotonda",
+      "title": "Condenado a pagar 4.300 euros por robar un radar en una manifestación: se lo llevó en el tractor y lo tiró en una rotonda",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/revision/parar-momento-aparcar-ley-clara-plazas-para-personas-movilidad-reducida-esten-donde-esten-multa-tambien",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/seguridad/condenado-ganadero-a-pagar-4-300-euros-robar-radar-remolque-se-llevo-su-tractor-tiro-rotonda",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "“Son sólo dos minutos” o “si nunca nadie aparca aquí”, cuando en realidad quieren decir “porque yo lo valgo”. Las excusas son siempre las mismas para el incivismo. Y no hay nada más incívico que aparcar en una plaza reservada para personas con movilidad reducida, las plazas PMR. A menudo, no queda otra que denunciar a quien ha decidido que su persona era superior a la del resto de la sociedad. Pero, ¿cómo denunciar a quien aparca en una plaza PMR sin tarjeta? ¿qué pruebas necesitas y cuánto le va a costar? Te lo contamos Para o estacionar vale lo mismo, 200 euros de multa Estacionar o simplemente pararse en una plaza PMR sin la tarjeta correspondiente es una infracción grave del Reglamento General de Circulación, en concreto de su artículo 94. Hacerlo se considera una infracción grave y por tanto conlleva una multa de 200 euros, que se quedan en 100 con pronto pago. No resta puntos, pero"
+      "summary": "Un joven granjero robó un radar móvil, se lo llevó en el remolque de su tractor y acabó dejándolo abandonado en medio de una rotonda del pueblo. Fue durante un protesta de ganaderos por las medidas de la dermatosis nodular contagiosa: el radar se convirtió en protagonista de las movilizaciones sin quererlo, paseado en la caja del remolque durante la marcha. La bravata ha tenido consecuencias: acaba de ser juzgado y ha sido condenado como culpable de robo, aunque no por los daños que sufrió el radar. En todo caso, le ha caído un multazo de más de 4.000 euros. Un radar - remolque en su remolque Ocurrió el 24 de octubre de 2025, en una movilización de la Coordinación Rural en Mende, localidad del departamento de Lozère en Francia. El ganadero en cuestión, de 24 años y residente en Rimeize, fue un paso más allá durante la marcha de protesta: se hizo con un radar móvil colocado en la carreter"
     },
     {
-      "url_key": "https://www.motorpasion.com/formula1/christian-horner-ex-jefe-red-bull-empece-a-hablar-carlos-sainz-para-ficharle-cinco-dias-despues-fui-despedido",
-      "title": "Christian Horner, ex jefe de Red Bull: \"Empecé a hablar con Carlos Sainz para ficharle. Cinco días después fui despedido\"",
+      "url_key": "https://www.motorpasion.com/seguridad/expertos-mecanica-mantenimiento-confirman-neumaticos-electrico-se-desgastan-20-rapido-que-coche-combustion",
+      "title": "Los expertos en mecánica y mantenimiento lo confirman: “Los neumáticos de un eléctrico se desgastan hasta un 20% más rápido que en un coche de combustión”",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/formula1/christian-horner-ex-jefe-red-bull-empece-a-hablar-carlos-sainz-para-ficharle-cinco-dias-despues-fui-despedido",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/seguridad/expertos-mecanica-mantenimiento-confirman-neumaticos-electrico-se-desgastan-20-rapido-que-coche-combustion",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "La historia de Carlos Sainz en esta temporada 2026 podría estar siendo bien diferente. El piloto madrileño pena en los últimos lugares con un Williams, pero estuvo realmente cerca de correr en Red Bull. Christian Horner, el jefe de equipo de la escuadra austriaca, abrió conversaciones con Sainz para ficharle. Pero un evento inesperado lo evitó. Horner ha desvelado en su recién publicada autobiografía, titulada 'Drive', que tenía la firme intención de fichar a Sainz como compañero de equipo de Max Verstappen de cara a 2026. Pero solo cinco días después de comenzar las negociaciones, se encontró por sorpresa con una carta de despido que le dejó fuera de Red Bull. Sainz podía haber cambiado Williams por Red Bull La publicación de 'Drive', la autobiografía de Horner, ha puesto sobre la mesa una realidad alternativa que no conocíamos. Esa en la que Carlos Sainz podía haber corrido en Red Bull"
+      "summary": "Es cierto que comprar un coche eléctrico permite olvidarse de ciertos mantenimientos que en un coche de combustión no como por ejemplo cambiar el aceite de motor, o sustituir alguna pieza como bujías… Sin embargo, nada de eso evita las visitas al taller. Especialmente, hay un elemento que conviene vigilar con atención porque soporta buena parte de las exigencias adicionales de estos vehículos: los neumáticos. El peso de las baterías y la aceleración pasan factura, entre otros factores Según un estudio técnico de Michelin publicado por Euromaster, los neumáticos de los coches eléctricos pueden desgastarse, de media, hasta un 20% más rápido que los de modelos de combustión equivalentes. En Motorpasión El fin del mecánico tradicional por culpa del coche eléctrico: la factura millonaria y los riesgos extremos de reparar la nueva movilidad Si bien no significa que todos los eléctricos vayan a"
     },
     {
-      "url_key": "https://www.motorpasion.com/videos-de-coches/explorador-urbano-se-ha-colado-antigua-fabrica-bugatti-donde-nacio-eb110-video-como-esta-ahora-pone-piel-gallina",
-      "title": "De hacer al abuelo del Bugatti Chiron a fábrica para raves en ruinas: este vídeo pone los pelos de punta",
+      "url_key": "https://www.motorpasion.com/industria/precios-gasolina-hoy-16-octubre",
+      "title": "Precios de la gasolina hoy, 16 de octubre",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/videos-de-coches/explorador-urbano-se-ha-colado-antigua-fabrica-bugatti-donde-nacio-eb110-video-como-esta-ahora-pone-piel-gallina",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/industria/precios-gasolina-hoy-16-octubre",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "La llamada ‘Blue Factory’ abrió en 1990 en Campogalliano, Italia, para fabricar el ya mítico Bugatti EB110, uno de los superdeportivos más extremos de su época. Pero hoy, las que antaño fueron instalaciones punteras, están sumidas en la ruina y han llegado a ser el escenario de raves y fiestas clandestinas. Un vídeo de Instagram publicado en su día por el explorador urbano DecayingMidwest muestra al detalle los restos de su pasado: entre escombros, piezas de coches y restos de material industrial, el ex edificio de Bugatti conserva las huellas de una etapa muy especial para la marca francesa, cuando intentó volver al mercado de los superdeportivos con una máquina adelantada a su tiempo. Las imágenes ponen los pelos de punta. La fábrica italiana donde Bugatti quiso volver a lo más alto La historia de la ‘Blue Factory’ se remonta a 1987, cuando el empresario italiano Romano Artioli adquiri"
+      "summary": "El precio de la gasolina y diésel sigue estable, aunque ligeramente más bajo que ayer se mantiene, el litro de gasóleo se mantiene en casi 1,9 euros de media en las gasolineras españolas y el de gasolina casi rozando los 1,8 euros. Estos precios incluyen el descuento de 20 céntimos por litro, que se mantendrá en noviembre y que se ha convalidado finalmente pese a la disolución de las Cortes. El mercado de los carburantes es muy volátil, con la presión del precio del crudo tensionado por el conflicto en Irán. También la capacidad de refino que amenaza el diésel. Esta incertidumbre internacional incide directamente en los surtidores. Precio de la gasolina y del diésel en España hoy Si miramos a las gasolinas, pequeño respiro para la Gasolina Sin Plomo 95, que hoy marca un precio medio de 1,781 €/l (una bajada de 0,3 céntimos). Por su parte, la Gasolina Sin Plomo 98 se mantiene estable y ar"
     },
     {
-      "url_key": "https://www.motorpasion.com/futuro-movimiento/pais-que-coches-fabrica-ahora-china-tambien-esta-creando-ciudades-15-minutos-coche",
-      "title": "Es el país que más coches fabrica, pero ahora China también está creando ciudades de 15 minutos, sin coche",
+      "url_key": "https://www.motorpasion.com/clasicos/fundo-su-propia-marca-coches-general-motors-chrysler-ford-se-pusieron-acuerdo-para-aplastarle-coppola-george-lucas-llevaron-su-vida-al-cine",
+      "title": "Ni Ferrari ni Lamborghini: el único diseñador de coches que motivó a Francis Ford Coppola para hacer una película fue Preston Tucker. Así era su coche personal",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/futuro-movimiento/pais-que-coches-fabrica-ahora-china-tambien-esta-creando-ciudades-15-minutos-coche",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/clasicos/fundo-su-propia-marca-coches-general-motors-chrysler-ford-se-pusieron-acuerdo-para-aplastarle-coppola-george-lucas-llevaron-su-vida-al-cine",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Parece contradictorio, pero el país que más coches exporta al resto del mundo y que tiene el mayor mercado del automóvil, está diseñando barrios donde el coche pierde el protagonismo para otorgárselo al transporte público. Las ciudades chinas ya no crecen en torno al uso del automóvil: ahora se hacen según un modelo urbanístico denominado Transit-Oriented Development (TOD). El coche deja de ser imprescindible, sin dejar de existir Cuando llegó el automóvil, no solo transformó nuestras vidas, sino también nuestras ciudades. A medida que los coches se popularizaron, las ciudades de casi todo el mundo se fueron adaptando para el uso de los vehículos. La planificación urbana durante todo el siglo XX y lo que llevamos de siglo XXI se ha hecho alrededor del coche: grandes avenidas, plazas de aparcamiento, carreteras de circunvalación y un largo etcétera, pero eso está cambiando en algunos luga"
+      "summary": "La historia del automóvil está llena de nombres célebres: Henry Ford, Enzo Ferrari, Ferruccio Lamborghini, André Citroën o Ferdinand Porsche son solo algunos de ellos, pero hay otras figuras menos conocidas que han sido clave en la industria del automóvil. Es el caso de Preston Tucker, un empresario y diseñador de automóviles que fundó la marca Tucker e inspiró a Francis Ford Coppola para hacer una película con su vida. Su coche personal está restaurado y es la mejor muestra de su ingenio. Nunca sabremos hasta dónde podría haber llegado Preston Tucker La vida de Preston Tucker fue de película. No lo pensamos solo nosotros: en 1988, Francis Ford Coppola dirigió ‘Tucker: un hombre y su sueño’, una película producida por George Lucas que documentó el legado de este empresario y diseñador de coches estadounidense. En Motorpasión Un taller de restauración afirma que tiene un Tucker Convertibl"
     },
     {
-      "url_key": "https://www.motorpasion.com/tuning-preparaciones/tus-ojos-no-te-enganan-este-fiat-panda-mide-solo-50-centimetros-ancho-coche-estrecho-mundo-dos-coches-aparcados",
-      "title": "Este Fiat Panda mide solo 50 centímetros de ancho y es el coche más estrecho del mundo: cabe entre dos coches aparcados",
+      "url_key": "https://www.motorpasion.com/seguridad/policia-confisca-hiperdeportivo-chino-1-600-cv-no-ir-demasiado-rapido-sino-matricula-normativa-para-todos",
+      "title": "La policía confisca un hiperdeportivo chino de 1.600 CV: \"La normativa es para todos\"",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/tuning-preparaciones/tus-ojos-no-te-enganan-este-fiat-panda-mide-solo-50-centimetros-ancho-coche-estrecho-mundo-dos-coches-aparcados",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/seguridad/policia-confisca-hiperdeportivo-chino-1-600-cv-no-ir-demasiado-rapido-sino-matricula-normativa-para-todos",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "A primera vista, cuesta creer que este microcoche sea real. Sólo mide 50,2 cm de ancho y tiene una carrocería que parece cortada longitudinalmente y reconstruida a escala o hecha por ordenador. Pero no es una imagen generada por IA ni un montaje de Photoshop: es un Fiat Panda de primera generación que funciona de verdad. Se llama Panda per Uno y su creador, el italiano Andrea Marazzi, ha conseguido convertir un modelo de 1993 en el coche conducible más estrecho del mundo. Guinness World Records reconoció oficialmente el récord el 21 de junio de 2025 y un año después, Marazzi ha vuelto a sorprender con otra transformación radical del popular utilitario, esta vez en forma de monster truck de casi tres metros de altura. El Fiat Panda más estrecho del mundo conserva el 90 % de las piezas originales La idea del Panda per Uno o “Panda para uno” surgió en 2024, cuando llegó un Fiat Panda de 199"
+      "summary": "\"La normativa se aplica a todos\". Y eso incluye un superdeportivo eléctrico chino de más de 1.600 CV que supera los 187.000 euros de precio. Lo dice la Policía de Tráfico de Holanda Septentrional en un post en Instagram, donde muestra esta bestia llegada desde China que acaban de inmovilizar: no puede circular por las carreteras neerlandesas. Que esta bestia cero emisiones acabara retirado en grúa nada tiene que ver con sus estratosféricas prestaciones: se vende en Europa y está homologado para nuestro mercado. Tampoco porque se pasara pisando el acelerador. La razón fue mucho más mundana: su matrícula. Matrícula ilegal El coche en cuestión era un Denza Z, el nuevo superdeportivo de esta marca de lujo de BYD, recién lanzado en Europa. En concreto, su versión Spider descapotable. Los agentes lo interceptaron mientras estaba cargando sus baterías en Amstelveen y no pudo continuar su viaje."
     },
     {
-      "url_key": "https://www.motorpasion.com/seguridad/pere-navarro-director-dgt-radares-sancion-no-exceso-velocidad-como-tonto",
-      "title": "Pere Navarro, director de la DGT, sobre los radares: \"La sanción no es tanto por exceso de velocidad como por tonto\"",
+      "url_key": "https://www.motorpasion.com/tesla/tesla-roadster-2026",
+      "title": "Elon Musk presenta el coche más loco de la historia: el Tesla Roadster acelera más rápido que un caza y vuela, literalmente",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/seguridad/pere-navarro-director-dgt-radares-sancion-no-exceso-velocidad-como-tonto",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/tesla/tesla-roadster-2026",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "La DGT se encuentra sumida en una fase de reformas en la Ley de Tráfico que entraron en vigor el 1 de octubre, y otras que puede que nunca lo hagan. Y es que la convocatoria de las elecciones para el 29 de noviembre ha hecho saltar por los aires dos importantes reformas de la DGT que ya se estaban tramitando: la nueva tasa 0,1 de alcohol al volante y la rebaja de los márgenes de exceso de velocidad para sea considerado delito de tráfico. En este escenario un tanto incierto, Pere Navarro, director de la DGT, ha sido bastante claro -meridianamente claro- en una reciente entrevista en la que se han tocado muchos palos, entre ellos el de los radares y las multas por exceso de velocidad. \"Si te ponen un gran cartel que te dice que hay un radar, ¿para qué continúas con el exceso de velocidad?\" En una entrevista concedida a El Comercio, Navarro ha dejado caer que hay que reabrir -de nuevo- el d"
+      "summary": "El Tesla Roadster es, sin duda, uno de los coches que más se ha hecho rogar. Tesla ha necesitado casi 10 años y todo tipo de excusas para justificar sus múltiples retrasos, pero por fin se ha presentado y el resultado es una de las idas de olla más bestias de la historia del automóvil. El Tesla Roadster es un deportivo eléctrico que acelera absurdamente rápido, pero eso no es todo: también puede circular boca abajo y volar. Elon Musk lo ha demostrado en una presentación oficial que ha dejado a todo el mundo con la boca abierta. Cuando pensábamos que lo habíamos visto todo, va Tesla y presenta el Roadster Hace casi 10 años, Elon Musk prometió que Tesla lanzaría una segunda generación del que fue su primer coche, el Tesla Roadster. El magnate prometió que este modelo marcaría un antes y un después, tanto a nivel tecnológico como en el apartado de prestaciones, pero su presentación se ha re"
     },
     {
-      "url_key": "https://www.motorpasion.com/formula1/trabajador-medio-ruanda-cobra-23-65-euros-al-mes-ahora-su-gobierno-se-va-a-gastar-300-millones-carrera-formula-1",
-      "title": "Ruanda se va a gastar el 23% de su presupuesto para educación y salud en un GP de Fórmula 1 que aún no tiene ni fecha fija",
+      "url_key": "https://www.motorpasion.com/seguridad/factura-taller-se-ha-disparado-60-siete-anos-problema-empieza-coche-se-averie",
+      "title": "La factura del taller se ha disparado un 60 % en siete años: el problema empieza antes de que el coche se averíe",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/formula1/trabajador-medio-ruanda-cobra-23-65-euros-al-mes-ahora-su-gobierno-se-va-a-gastar-300-millones-carrera-formula-1",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/seguridad/factura-taller-se-ha-disparado-60-siete-anos-problema-empieza-coche-se-averie",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Ya es oficial. La Fórmula 1 volverá a correr en África. 33 años después de la última carrera en Sudáfrica, la Fórmula 1 tiene un nuevo aliado en el continente africano: Ruanda. Sin una fecha fija todavía, y con la vaga indicación de \"a partir de 2030\", la Fórmula 1 ha confirmado que habrá un regresó del gran circo a África. El problema son las cifras anunciadas. En un país con una tasa de pobre del 27,4% y con unos sueldos medios por los suelos, el gobierno planifica gastar en torno a 300 millones de euros en un Gran Premio de Fórmula 1. Y no es el único proyecto faraónico en el que se ha embarcado el gobierno ruandés en las últimas fechas. La Fórmula 1 volverá a África sin fecha definida Mientras el país todavía trata de cerrar las heridas del pasado, Ruanda se ha embarcado en un proyecto que pocos vieron venir: organizar un Gran Premio de Fórmula 1. Liberty Media, propietaria del mundi"
+      "summary": "Que los coches se hayan convertido en complejos ordenadores sobre ruedas para hacernos la conducción más cómoda y segura tiene una cara B: ha disparado el precio de la factura en el taller. Un reciente informe analiza cuánto han subido las reparaciones es solo siete años y la conclusión es de una auténtica locura: llevar el coche al taller se ha encarecido casi el doble que el coste de la vida. Entre 2019 y 2026, las reparaciones de coches se han encarecido un 60 % mientras que la inflación ha subido poco más del 30 %. Son datos de EEUU, pero en España la factura del taller también es superior a la del IPC. Lo que también es extrapolable es la causa: la carga tecnológica de los coches más modernos complica las reparaciones. No solo es cambiar el aceite, es recalibrar todo el sistema El informe de la Reserva Federal de St. Louis, correspondiente al mercado estadounidense y recogido por Au"
     },
     {
-      "url_key": "https://www.motorpasion.com/cine-tv-juegos/tengo-38-979-hot-wheels-este-abuelo-empezo-tarde-a-coleccionar-coches-miniatura-ahora-tiene-tesoro-casa",
-      "title": "La afición por los Hot Wheels no tiene edad: este abuelo tiene casi 40.000 miniaturas en su casa, y no son precisamente para que jueguen sus nietos",
+      "url_key": "https://www.motorpasion.com/seguridad/esperando-pie-colocando-cajas-guardar-sitio-aparcamiento-esta-prohibido-policia-esta-extremando-vigilancia",
+      "title": "Ni esperando de pie, ni colocando cajas. Guardar un sitio de aparcamiento está prohibido y la policía está extremando la vigilancia",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/cine-tv-juegos/tengo-38-979-hot-wheels-este-abuelo-empezo-tarde-a-coleccionar-coches-miniatura-ahora-tiene-tesoro-casa",
-      "published_at": "2026-10-15",
+      "url": "https://www.motorpasion.com/seguridad/esperando-pie-colocando-cajas-guardar-sitio-aparcamiento-esta-prohibido-policia-esta-extremando-vigilancia",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "La afición por los coches en miniatura no parece tener edad. La gente suele asociar estos coches a los más pequeños, pero lo cierto es que no solo ellos disfrutan de los modelos a escala, es más, cada vez hay más adultos que coleccionan estas miniaturas, sobre todo, si son Hot Wheels. La marca de Mattel vende millones de coches en miniatura cada año y una buena parte los compran adultos. Lo que no habíamos visto nunca es que un abuelo empezara a coleccionar Hot Wheels. Nunca es tarde si la dicha es buena Nuestros mayores suelen ser muy cuadriculados a la hora de elegir aficiones. En España, lo habitual es que se dediquen a pasear, a ver obras y a jugar a la petanca. Lo que nadie se espera es que un abuelo empiece a coleccionar Hot Wheels de repente. Que sepamos, no hay ningún caso así en España, pero sí en Estados Unidos. En Motorpasión Se vende clásico con Hot Wheels a juego: este Datsu"
+      "summary": "Aparcar el coche en un lugar concurrido puede convertirse (y normalmente, se convierte) en toda una odisea. Especialmente en lo que respecta a la búsqueda de huecos disponibles, una tarea en la cual sólo parecen triunfar los más fuertes o los más habilidosos. En estas situaciones es común que nuestros acompañantes nos ofrezcan salir del coche y esperarnos de pie en el mismo hueco, para guardarnos el sitio mientras llegamos a él. Una costumbre bienintencionada, pero que nos puede amargar el día en la forma de una multa. Multas graves de hasta 500 euros En primer lugar, hay que dejar claro que no existe en el reglamento ninguna norma que prohíba expresamente esta práctica. Sin embargo, si un agente de la autoridad competente nos sorprende realizándola sí existen algunos artículos lo suficientemente ambiguos como para que su interpretación derive en una sanción. Por ejemplo, un acompañante "
     },
     {
-      "url_key": "https://www.motorpasion.com/furgonetas-y-caravanas/camion-militar-seis-ruedas-a-camper-extrema-todoterreno-11-metros-motor-diesel-8-3-litros-casi-1-000-litros-agua-dos-camas-gigantes",
-      "title": "De camión militar de seis ruedas a camper extrema todoterreno: 11 metros, motor diésel de 8,3 litros, casi 1.000 litros de agua y dos camas gigantes",
+      "url_key": "https://www.diariomotor.com/competicion/noticia/delegaciones-disputaran-copa-fia-gt-macao/",
+      "title": "Confirmados los pilotos y equipos que disputarán la Copa del Mundo FIA GT en Macao",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/furgonetas-y-caravanas/camion-militar-seis-ruedas-a-camper-extrema-todoterreno-11-metros-motor-diesel-8-3-litros-casi-1-000-litros-agua-dos-camas-gigantes",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/competicion/noticia/delegaciones-disputaran-copa-fia-gt-macao/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Para tener un overlander todoterreno preparado para un apocalipsis no hace falta gastarse casi 2 millones de dólares, como hizo Jason Momoa. La prueba es este brutal camión militar de los años 90, de seis ruedas y 11 de metros de largo, convertido en camper extrema. Tiene todo lo necesario para vivir en medio de la nada días a días: un cómodo interior completamente equipado y depósitos gigantescos de agua y combustible. No extraña que esta bestia camper saliera en 'Extreme RVs', un programa estadounidense dedicado a autocaravanas de lo más locas. Lo que sí sorprende es su precio. Una casa sobre ruedas 6x6 colosal Este camión camper es un BMY M931A2 de 1990, o simplemente A2, que en sus orígenes fue una cabeza tractora militar estadounidense diseñada para transportar pesadas cargas. En el menú, un chasis robusto y reforzado, sus tres ejes Rockwell o sus neumáticos de uso militar con siste"
+      "summary": "Un total de 18 coches GT3 representando a los mejores fabricantes del mundo estarán del 19 al 22 de noviembre en el circuito de Macao disputando la Copa del Mundo FIA GT. A primera vista destaca la delegación de Porsche Motorsport encabezada por AO Racing que llevará a su icónico 911 GT3 R Evo, decorado como dragón rojo y dorado, para el estelar Laurin Heinrich. En esta ocasión el fabricante alemán tendrá cuatro coches en pista, así que además de Heinrich participarán los no menos estelares Alessio Picariello, Dorian Boccolacci y el recién coronado campeón del DTM Thomas Preining, quien retorna a la carrera tras su incursión en el año 2024. Esto se traduce en que en esta ocasión Laurens Vanthoor y Ayhancan Guven han sido dejados de lado, decisión tomada por Porsche Motorsport Asia Pacífico y Absolute Racing al considerar que los cuatro seleccionados poseen una mayor experiencia en el cir"
     },
     {
-      "url_key": "https://www.motorpasion.com/industria/tope-a-hibridos-chinos-renault-ve-hueco-cinco-modelos-600-millones-plataforma-electrica-nueva-para-valladolid-palencia",
-      "title": "Con el tope a los híbridos chinos, Renault ve hueco. Cinco modelos, 600 millones y una plataforma eléctrica nueva para Valladolid y Palencia",
+      "url_key": "https://www.diariomotor.com/competicion/noticia/la-imsa-y-sro-motorsports-cancelan-pruebas-conjuntas-programadas-para-daytona/",
+      "title": "La IMSA y SRO Motorsports cancelan pruebas conjuntas programadas para Daytona",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/industria/tope-a-hibridos-chinos-renault-ve-hueco-cinco-modelos-600-millones-plataforma-electrica-nueva-para-valladolid-palencia",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/competicion/noticia/la-imsa-y-sro-motorsports-cancelan-pruebas-conjuntas-programadas-para-daytona/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "\"Por primera vez en 75 años de presencia en España, el grupo Renault va a fabricar vehículos eléctricos en el país\", reconocía Christian Stein, CEO de Renault Group España. Renault intensifica sus inversiones en el vehículo eléctrico en España… sin hacer mucho ruido. El grupo anunció por comunicado, a finales de la semana pasada, que finalmente se inyectarán 600 millones de euros entre 2026 y 2030, en parte gracias a ayudas públicas nacionales y regionales, en sus fábricas de Palencia y Valladolid, cuya producción total se situó en 343.000 vehículos en 2025. Una discreción destinada a no contrariar a los obreros de las fábricas francesas. Eléctricos y eléctricos de rango extendido \"Made in Spain\" para frenar a China Las plantas de Douai y Maubeuge habían tenido el privilegio de ensamblar en exclusiva los primeros vehículos 100% eléctricos de la marca. Esa exclusividad ya es cosa del pasa"
+      "summary": "Argumentando costes elevados y no estipulados para fabricantes y clientes, tanto la IMSA como SRO Motorsports acordaron no realizar las pruebas previstas para el 12 y 13 de diciembre en Daytona, donde los coches que participan en la clase GTD Pro y GTD estarían en pista con el fin de actualizar el Balance de Rendimiento que se aplicará en ambas organizaciones la próxima temporada. Es obvio que el desinterés por parte de los propietarios de los coches era manifiesto ya que los gastos que requiere realizar este tipo de evaluaciones deben asumirlos quienes participan y para entonces casi todos los fabricantes han cerrado su contabilidad anual. Pero de igual manera ambas organizaciones manifestaron que seguirán colaborando mediante el intercambio de información para que se aplique un sistema de emparejamiento justo y equitativo que esté lo más cercano posible para la satisfacción de equipos "
     },
     {
-      "url_key": "https://www.motorpasion.com/industria/tenemos-malas-noticias-tu-proximo-coche-hibrido-barato-va-a-dejar-serlo-europa-va-cortar-grifo-a-coches-chinos-que-entran-masa",
-      "title": "Tenemos malas noticias: tu próximo coche híbrido barato va a dejar de serlo. Europa va cortar el grifo a los coches chinos que entran en masa",
+      "url_key": "https://www.diariomotor.com/noticia/promesas-incumplidas-tesla-roadster/",
+      "title": "Elon Musk prometió un deportivo de 1.000 km de autonomía en 2017. Nueve años después, Tesla presenta uno que no llega ni a la mitad",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/industria/tenemos-malas-noticias-tu-proximo-coche-hibrido-barato-va-a-dejar-serlo-europa-va-cortar-grifo-a-coches-chinos-que-entran-masa",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/promesas-incumplidas-tesla-roadster/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "El Salón del Automóvil de París fue un mensaje claro de Europa a China: \"Nosotros también podemos hacer coches eléctricos asequibles\". De hecho el Presidente de la República, Emmanuel Macron, adelantó durante el evento que habría un acuerdo entre París y Berlín para proteger a la industria europea del asedio chino. El trato consiste en reducir a la mitad la cuota de mercado de los coches híbridos chinos con un límite a las importaciones. Esto va a suponer varias cosas para el futuro comprador en España: el fin de las versiones chollo de acceso a la gama y plazos de entrega más largos. Menos coches entrando en la UE significa una cosa: serán más caros La Unión Europea pretende frenar el aumento de las importaciones de coches híbridos e híbridos enchufables chinos que se envían al bloque, limitando las importaciones procedentes de China a 350.000 unidades al año. No se trata de una decisió"
+      "summary": "Prometía 1.000 km de autonomía, cuatro plazas y llegar al mercado en 2020. El nuevo Tesla Roadster nos ha volado la cabeza con su capacidad para volar, pero ha cambiado casi todo, también sus promesas. En noviembre de 2017, Elon Musk presentó un deportivo eléctrico que prometía revolucionar el automóvil: prometió 1.000 kilómetros de autonomía, cuatro plazas, más de 400 km/h de velocidad máxima y una aceleración de 0 a 100 km/h en 2,1 segundos. Se llamaba Tesla Roadster y debía llegar al mercado en 2020. Nueve años después, Tesla ha presentado un Roadster completamente diferente que puede hacer cosas absolutamente increíbles, pero que también ha incumplido varias de aquellas promesas. De 1.000 kilómetros de autonomía a poco más de 480 Seamos sinceros, el Roadster de 2026 es alucinante. Gracias a la tecnología desarrollada junto a SpaceX, acelera de 0 a 97 km/h en 0,81 segundos, realiza ma"
     },
     {
-      "url_key": "https://www.motorpasion.com/industria/mercadona-despide-a-trabajador-22-anos-que-cobraba-4-300-euros-29-peajes-gasto-fue-solo-41-euros",
-      "title": "Mercadona despide a un trabajador que cobraba 4.300 euros al mes por pasar 41 euros de peajes como gasto",
+      "url_key": "https://www.diariomotor.com/competicion/noticia/ryo-hirakawa-aferra-asiento-wec/",
+      "title": "Tras la negativa de Haas F1, Ryō Hirakawa se aferra a su asiento en el WEC",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/industria/mercadona-despide-a-trabajador-22-anos-que-cobraba-4-300-euros-29-peajes-gasto-fue-solo-41-euros",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/competicion/noticia/ryo-hirakawa-aferra-asiento-wec/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Un gerente de transportes que trabajaba en Mercadona cobraba 4.314 euros al mes, y entre sus beneficios, figuraba el de utilizar el coche de empresa para desplazamientos privados. Sin embargo, lo que no podía hacer era pagar esos viajes con el telepeaje corporativo. Pues Mercadona detectó 29 cargos realizados durante días libres de vacaciones; el trabajador alegó que tenía autorización verbal de un antiguo responsable, y que el perjuicio economico era mínimo. El Tribunal Superior de Justicia de Andalucía ha dado la razón a Mercadona, y ha confirmado que el despido era procedente, según El Digital de Albacete. Defendió que el perjuicio era de 41,20 euros Este trabajador llevaba en Mercadona desde septiembre del 2001, y era gerente B de transportes, con un salario de 4.314,96 euros brutos mensuales, y que, con pagas extraordinarias prorrateadas, ascendía a unos 51.780 euros anuales. En Mot"
+      "summary": "Luego de confirmarse que Rafael Câmara será piloto titular de la escudería Haas F1, de inmediato Ryō Hirakawa manifestó que seguirá involucrado en el programa de Toyota Racing en el Campeonato Mundial de Resistencia, así que va a mantener su asiento en el TR010 para el año que viene. Durante las pruebas en la Fórmula 1, desde Toyota comunicaron que en caso de que el piloto nipón fuera seleccionado para incorporarse al equipo estadounidense, sería reemplazado por el joven Esteban Masson, movimiento que estará pausado debido a que el fabricante japonés quiere a uno de los suyos en cada prototipo mientras esté disputando el campeonato tal como ha ocurrido desde la temporada 2015. Hirakawa era una de las alternativas para reemplazar a Esteban Ocon, inclusive participó en las pruebas para evaluar su talento, pero la decisión se inclinó hacia Câmara, lo que también dejó por fuera a Jack Doohan"
     },
     {
-      "url_key": "https://www.motorpasion.com/industria/precios-gasolina-hoy-15-octubre",
-      "title": "Precios de la gasolina hoy, 15 de octubre",
+      "url_key": "https://www.diariomotor.com/motos/italjet-roadster-400-detalles/",
+      "title": "Parece un capricho de salón pero sus 41,5 CV y 151 kg dejan claro que este scooter va muy en serio",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/industria/precios-gasolina-hoy-15-octubre",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/motos/italjet-roadster-400-detalles/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "En un contexto marcado por la incertidumbre económica, saber cuánto cuesta realmente llenar el depósito ha dejado de ser una curiosidad para convertirse en una prioridad doméstica. El precio que marcaba la gasolinera de siempre es la punta visible de una cadena mucho más larga, en la que confluyen desde las oscilaciones del mercado de divisas hasta las decisiones sobre reservas estratégicas. Todo ello, sumado a los vaivenes geopolíticos de los últimos meses, se traslada de forma casi inmediata al precio en la gasolinea. Lo que sucede a miles de kilómetros se acaba pagándo aquí. Precio de la gasolina y del diésel en España hoy Si miramos a las gasolinas, la Gasolina Sin Plomo 95, ha bajado hasta los 1,784 €/l (una bajada de sólo 0,3 céntimos). La Gasolina Sin Plomo 98 se beneficia del mismo pequeño respiro, hoy marca un precio medio de 1,945 €/l (una bajada de 0,3 céntimos). En Motorpasió"
+      "summary": "¿Cansado de ver por las calles circulando siempre el mismo tipo de scooter y motocicleta? Ojito a este nuevo cacharro que volverá a brillar en el próximo Salón de la Moto de Milán y que promete hacer girar cabezas a su paso, con un diseño tan rompedor y extravagante como pocos. Eso sí, si te has enamorado deberás saber que ya se han agotado todas las unidades y deberás recurrir al mercado de ocasión a partir de la próxima primevera, momento en el que comenzarán con las entregas. Con 41,5 CV de potencia Súper ligera Diseño peculiar Calidad de acabados La nueva Italjet Roadster 400 se presentará oficialmente en el EICMA 2026 de Milán y ya apunta a ser uno de esos modelos que te obligan a pararte a mirar. La firma italiana ha vuelto a dar rienda suelta a sus diseñadores con una propuesta que sube el listón de lujo y exclusividad respecto a la gama Dragster, manteniendo esa estética tan reto"
     },
     {
-      "url_key": "https://www.motorpasion.com/seguridad/boton-dispara-consumo-coche-invierno-no-calefaccion-aire-acondicionado",
-      "title": "Un botón dispara el consumo del coche en invierno y no es el de la calefacción: es el del aire acondicionado",
+      "url_key": "https://www.diariomotor.com/noticia/kymco-cv-x45-2027-adelanto/",
+      "title": "La Honda X-ADV de las urbanas ya está aquí, mucho más barata, todoterreno, y modesta, así es la moto más esperada de KYMCO",
       "source": "unknown",
       "host": "",
-      "url": "https://www.motorpasion.com/seguridad/boton-dispara-consumo-coche-invierno-no-calefaccion-aire-acondicionado",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/kymco-cv-x45-2027-adelanto/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Cuando están presentes las bajas temperaturas, el uso de la calefacción del coche, o climatizador, está a la orden del día. Pero si nos pasamos con la temperatura puede afectar al consumo de combustible como ocurre con el aire acondicionado en verano, pero también en la conducción, ya que puede provocar somnolencia. Somnolencia y que para evitar el empañamiento constante lo suyo es conectar el aire acondicionado también cuando hace frío. El aire acondicionado hace que el coche consume más, y con la gasolina marcando su máximo del año a finales de septiembre y el diésel disparado merece la pena ajustarse el cinturón (doblemente) en el coche. ¿Y cuál es la temperatura recomendada para evitar ambas cosas? Esto es lo que recomienda la DGT, así como otros aspectos para utilizar el climatizador en los meses más fríos del año de la forma más eficaz posible. En Motorpasión Siete falsos mitos sob"
+      "summary": "La moto aspiracional ya no es una deportiva, ni una RR. Las aventureras se han convertido en la moto de moda y, de ellas, toda una oleada de motos urbanas, en formato scooter, que beben de esa sugerente hibridación de motos de diferente filosofía que nació de la Honda X-ADV. La Honda X-ADV no es un scooter, ni mucho menos, pero goza de una ergonomía más próxima a un scooter que a un trail, capacidades más que reales fuera del asfalto, un buen motor bicilíndrico y unas aptitudes deportivas que enlazan de paso con otro de los modelos más emblemáticos del mercado, la Yamaha T-MAX. X-ADV de Honda Del concepto scooter aventurero han nacido multitud de modelos. La Honda ADV 350, o la exitosa Zontes 368G, que literalmente está arrasando. Pero la jugada maravillosa pasa por intentar dotar a una moto con el formato y la ergonomía de un scooter de tipo crossover, características técnicas propias d"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/primeras-imagenes-porsche-mission-s/",
-      "title": "Primeras imágenes del Porsche Mission S, el regreso de la Porsche más purista y analógica",
+      "url_key": "https://www.diariomotor.com/noticia/sonido-motor-porsche-mission-s/",
+      "title": "Porsche no ha querido desvelar el motor del Mission S, pero ya sabemos cómo suena y huele a 8 cilindros a gasolina",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/primeras-imagenes-porsche-mission-s/",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/sonido-motor-porsche-mission-s/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Se ha hecho esperar bastante más de lo que nos habría gustado, pero Porsche vuelve por fin a lo más alto del mercado de los superdeportivos. Su nombre es Porsche Mission S, y además de buscar suceder a leyendas como el Carrera GT y el 918 Spyder, es un adelanto de la respuesta de Stuttgart a modelos como el Ferrari 849 Testarossa, el Lamborghini Temerario o el Aston Martin Valhalla. No nos vamos a engañar, esperábamos algo más de esta presentación y no sólo un prototipo. Pero el Mission S es un proyecto tan importante en los nuevos planes de futuro de Porsche, que la marca alemana parece querer tomárselo con calma para así dar vida a uno de los coches más apetecibles que hayamos visto en el mercado de los superdeportivos. Tras constatar que no hay mercado para un hypercar eléctrico como el Mission X presentado en 2023, Porsche ha tomado buena nota de lo que quieren sus clientes, motivo p"
+      "summary": "Una nueva era comienza en Porsche con la presentación del Mission S. El fabricante alemán quiere tener una nueva gama de superdeportivos por encima del 911 y por eso ha decidido crear el Porsche Mission S como adelanto de lo que está por venir. Sin embargo Porsche no ha querido revelar nada de su motor, pero ya podemos adelantarte que quema gasolina y suena tal que así. Durante la presentación oficial organizada por Porsche para unos muy pocos invitados, el Mission S no sólo ha podido contemplarse en estático para valorar su diseño exterior o su habitáculo, sino que también ha sido posible verlo en movimiento, lo que ha permitido a los asistentes grabar un vídeo con el arranque del Mission S y cómo suena este motor diseñado a medida para este coche. Porsche quiere tomarse con calma el desarrollo de esta nueva gama de superdeportivos, motivo por el cual el Mission S ha sido presentado sin"
     },
     {
-      "url_key": "https://www.diariomotor.com/motos/bmw-f-450-rr/",
-      "title": "No corre mucho, pero es la nueva superdeportiva de BMW, una máquina espectacular por menos de lo que cuesta un scooter",
+      "url_key": "https://www.diariomotor.com/noticia/ducati-panigale-v4-2027/",
+      "title": "El nuevo misil de Ducati tiene 218 CV para solo 187 kilos y tecnología de MotoGP: la Panigale V4 2027 es todavía más rápida, y no solo por la potencia",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/motos/bmw-f-450-rr/",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/ducati-panigale-v4-2027/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Sabíamos que la nueva saga BMW, la más accesible, la diseñada a la medida del A2, iba a traer consigo muchas alegrías. Primero fue la BMW F 450 GS, una aventurera compacta, ligera, muy barata, pero también tecnológica y con un diseño tremendamente atractivo. Tras ella, conocimos la BMW F 450 R, la nueva naked de la marca alemana, una deportiva urbana que seguía siendo tremendamente barata para tratarse de un producto de marca premium. La cuadratura del círculo llega con la nueva superdeportiva de BMW, una RR que, a pesar de su apariencia deportiva, no corre mucho y es que está construida para llevarla con el carné A2 sin limitar. Por si no fuera poco solo cuesta 7.150 euros. Hablamos de un precio inferior a los scooter de la marca alemana. Toma nota. BMW acaba de presentar una de las propuestas más interesantes para iniciarse en el mundo de las deportivas, que igualmente puede hacerse un"
+      "summary": "Hay motos deportivas y después está la Ducati Panigale V4, una auténtica superbike con matrícula que cada vez se parece más a las máquinas de los circuitos. Ducati acaba de presentar su evolución para 2027 y, aunque solamente ha ganado 2 CV, es más rápida que nunca. Puede girar cuatro décimas más rápido por vuelta que su predecesora, pero lo realmente interesante no está en el motor, sino en cómo consigue aprovechar semejante potencial. Tiene 218 CV y puede alcanzar las 15.000 rpm El corazón de esta bestia italiana sigue siendo el Desmosedici Stradale de cuatro cilindros en V, una mecánica derivada de la experiencia de Ducati en MotoGP que, con sus 1.103 centímetros cúbicos, desarrolla 218 CV a 13.500 rpm. La ganancia de potencia parece insignificante respecto a los 216 CV anteriores, pero Ducati ha trabajado en la admisión, el escape y la lubricación para conseguir un motor más eficaz a"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/bmw-ix3-m60-xdrive/",
-      "title": "BMW ha creado un SUV eléctrico de 612 CV que hace el 0-100 en 3,9 segundos, pero lo más sorprendente es que todavía es capaz de anunciar 754 km de autonomía",
+      "url_key": "https://www.diariomotor.com/noticia/tesla-roadster-2026-diseno-imagenes/",
+      "title": "El diseño y el interior del Tesla Roadster foto a foto, un deportivo que con nada de convencional ha hecho historia, aunque sólo sea un prototipo",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/bmw-ix3-m60-xdrive/",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/tesla-roadster-2026-diseno-imagenes/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "BMW acaba de presentar el iX3 más potente hasta la fecha y tiene cifras propias de un deportivo de altos vuelos. Se llama BMW iX3 M60 xDrive y tiene 612 CV y acelera de 0 a 100 km/h en 3,9 segundos, prestaciones muy serias para un SUV familiar de casi 4,8 metros de largo. Pero lo más interesante es que, a pesar de semejante potencia, todavía es capaz de homologar 754 kilómetros de autonomía. Tiene 143 CV más que el iX3 convencional y corre como un deportivo El BMW iX3 50 xDrive ya era un coche muy rápido. Con sus 469 CV y una aceleración de 0 a 100 km/h en 4,9 segundos, potencia no le falta precisamente. Pero BMW ha decidido ir un paso más allá con la primera variante M Performance del iX3, elevando la potencia hasta los 612 CV y el par máximo hasta 875 Nm. Son 143 CV y 230 Nm más que el iX3 50, suficientes para rebajar en un segundo entero la aceleración de 0 a 100 km/h. La velocidad má"
+      "summary": "Ya lo has visto suspendido boca abajo, completamente inmóvil; lo has visto aterrizando y despegando del suelo e, incluso, girando sobre sí mismo en el aire (en caso contrario, más abajo te dejo un vídeo en el que lo hace). Pero lo que ha pasado completamente desapercibido, debido a las verdaderamente increíbles capacidades del Tesla Roadster, es su diseño, en el que nos vamos a centrar con estas líneas y las siguientes imágenes. Y es que no todo son saltos, artificios y derroche de tecnología en el nuevo deportivo de Tesla. Mi cerebro todavía está tratando de asimilar lo que la firma de Elon Musk ha hecho en colaboración con su empresa espacial, SpaceX. Como bien ha señalado David Villarreal en el artículo que Diariomotor ha publicado esta misma mañana sobre el Roadster, en lugar de despejar todas nuestras dudas, esta presentación nos ha dejado con más preguntas de las que ya teníamos. E"
     },
     {
-      "url_key": "https://www.diariomotor.com/competicion/noticia/cadillac-formacion-pilotos-2027/",
-      "title": "Cadillac Racing anunció su formación de pilotos para la temporada 2027",
+      "url_key": "https://www.diariomotor.com/noticia/jaecoo-8-prueba-4x4-david-artes/",
+      "title": "No parece un todoterreno, pero es capaz de hacer 4x4 y además tiene un motor híbrido que hace 135 km antes de empezar a gasta gasolina",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/competicion/noticia/cadillac-formacion-pilotos-2027/",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/jaecoo-8-prueba-4x4-david-artes/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Cadillac Racing oficializó a sus pilotos para sus prototipos V-Series.R tanto en el Campeonato Mundial de Resistencia como en el Campeonato IMSA SportsCar. El cambio más significativo se produjo en Jota Sport tras hacerse oficial las salidas de Alex Lynn y Sebastien Bourdais en tanto ingresan António Félix da Costa y Ricky Taylor. El portugués saldrá del agonizante programa Alpine, en tanto Taylor llegará procedente de Wayne Taylor Racing, ambos pilotos se sumarán a Norman Nato, Will Stevens, Earl Bamber y Jack Aitken. Se explicó que el compromiso de António Félix da Costa no involucra su salida del equipo Jaguar de Fórmula E, así que hará un programa paralelo en 2027, lo que le hará perder las 6 Horas de Sao Paulo al estar disputando ese mismo fin de semana el e-prix de Shanghai. Por otra parte, el otro gran cambio se observa en Action Express ya que se anunció que Jack Aitken regresará"
+      "summary": "Nuestras carreteras se han inundado estos últimos años de coches que parecen todoterrenos, pero no lo son. Altos, con carrocerías voluminosas y protecciones por todas partes, los coches de tipo SUV ya no son tendencia: son la norma. No obstante, de vez en cuando algún fabricante decide que algún modelo en concreto sí que tiene que rendir de manera solvente fuera del asfalto sin llegar a ser un todoterreno de veras. Y es que, aunque no sea lo habitual, una pequeña parte del público sí que quiere tener un coche capaz en el campo, ya sea para excursiones en familia o para actividades de ocio que requieran llegar más lejos de lo normal. Ese es el caso del Jaecoo 8, un coche cuyas capacidades David Artés ha podido poner a prueba en una complicada ruta 4x4. A simple vista, no parece que nada vaya a diferenciar al Jaecoo 8 de otros SUV de características similares. Sin ir más lejos, dentro del "
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/kgm-torres-2026-gama/",
-      "title": "Todo sobre la gama Torres de KGM, parece un todoterreno, pero es un SUV con un maletero enorme y precio de derribo",
+      "url_key": "https://www.diariomotor.com/noticia/nuevo-peugeot-208-ventaja-renault-5/",
+      "title": "Parece un coche de rally, pero es el Renault 5 de Peugeot, fabricado en España, y con una gran ventaja respecto al 5 de Renault",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/kgm-torres-2026-gama/",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/nuevo-peugeot-208-ventaja-renault-5/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Su legado todoterreno le precede. Desde Corea del Sur, KGM, se ha prodigado por crear grandes todoterreno a precios tremendamente competitivos. Y lo sigue haciendo, con un todoterreno familiar como el KGM Rexton, y con una herramienta de trabajo indestructible, KGM Musso, que también está disponible en versión completamente eléctrica. Pero uno de los productos más interesantes de su catálogo es un SUV de dimensiones generosas, con apariencia de verdadero 4x4, y con un catálogo en el que hay sitio para todo, desde los KGM Torres con motor de gasolina, o híbrido; el KGM Torres EVX, completamente eléctrico; y hasta un KGM Torres Actyon con una línea mucho más deportiva. Un SUV familiar realmente amplio y cargado de equipamiento, desde 24.600 euros, según los precios vigentes en el momento de elaborar este artículo. La gama Torres ofrece versiones de gasolina e híbridas, con tracción delante"
+      "summary": "Fue una de las grandes sorpresas del Salón de París celebrado esta semana. Peugeot - junto con sus marcas hermanas del grupo - llegó con un despliegue espectacular. Un despliegue también emocionante, por qué no decirlo, que fue algo más que una declaración de intenciones. Peugeot confirmó que ha tomado nota y que seguirá la “vía Renault 5” con sus próximos lanzamientos. Y eso no puede hacer otra cosa que llenarnos de emoción. El nuevo Peugeot 208 debería ser el Renault 5 de Peugeot. Como Renault, Peugeot parece haber apostado por una de las fórmulas que mejor están funcionando y que cada vez son más las marcas que están siguiendo, la de recuperar la imagen de un clásico, de un modelo histórico. No solo Peugeot, Citroën también nos desveló cómo seguirá esta estrategia, en su caso lanzando un nuevo Citroën 2CV. Ya podemos adelantaros que este nuevo Peugeot 208 se fabricará en España, pero "
     },
     {
-      "url_key": "https://www.diariomotor.com/competicion/noticia/oficial-haas-rafael-camara/",
-      "title": "OFICIAL: HAAS confirma a Rafael Camara y la parrilla de la Fórmula 1 en 2027 está prácticamente completa",
+      "url_key": "https://www.diariomotor.com/noticia/mercedes-marco-polo-camperizacion-alemania/",
+      "title": "Esta camper de casi 100.000 euros se hace en España y ahora Mercedes la convierte en \"casa\" dentro de su propia fábrica",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/competicion/noticia/oficial-haas-rafael-camara/",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/mercedes-marco-polo-camperizacion-alemania/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Una Silly Season a ritmo de récord. La Fórmula 1 está cada vez más cerca de dejar su parrilla concretada para la temporada 2027 después de que el equipo HAAS haya anunciado este mediodía su decisión de sentar a Rafael Camara en uno de sus dos monoplazas para la próxima campaña. El brasileño, que en la actualidad está compitiendo en el Campeonato de Fórmula 2, formará de esta forma tándem con Oliver Bearman, aterrizando en la escudería estadounidense para sustituir a un Esteban Ocon que ya confirmó hace unas semanas que estaba fuera del equipo. Camara, que actualmente sigue siendo protegido de Ferrari, se encuentra disputando un intenso duelo con Nikola Tsolov por lo que puede ser el Campeonato de F2, saliendo líder después del fin de semana en Bakú, donde Rafael consiguió superar al piloto búlgaro de Campos, situándose líder por siete puntos. Estoy muy emocionado de fichar a un talento t"
+      "summary": "Hay muchas formas de viajar en camper, pero pocas tan sofisticadas como hacerlo en una Mercedes-Benz Marco Polo. La nueva ya ha entrado en producción y sigue saliendo de la fábrica española de Vitoria, pero después viaja hasta Ludwigsfelde (Alemania), donde Mercedes corta el techo, instala las camas, monta la cocina y la transforma en una camper. Por primera vez en más de 40 años de historia, todo el proceso queda dentro de la propia Mercedes. De Vitoria sale una Clase V y de Alemania, una casa La Marco Polo no ha dejado de tener ADN español. La planta de Vitoria continúa fabricando la Clase V que sirve como vehículo base, incluyendo carrocería, motores y una buena parte de su equipamiento. Vitoria conserva la fabricación de la base y en Alemania se hace la camperización completa El cambio llega después. Mercedes ya no hace la conversión con terceros: ha inaugurado en Ludwigsfelde una na"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/yamaha-xsr900-gp-my-2027/",
-      "title": "Parece una moto de museo de los setenta, antigua y de otro tiempo, pero es una deportiva de precio razonable, potente y moderna",
+      "url_key": "https://www.diariomotor.com/noticia/subaru-uncharted-oferta/",
+      "title": "Lo último de Subaru llega a España con carrocería SUV coupé, 169 CV, un precio muy competitivo y, ¡sorpresa!, tiene tracción delantera",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/yamaha-xsr900-gp-my-2027/",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/subaru-uncharted-oferta/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Uno la ve y puede pensar que es una moto clásica restaurada, prácticamente de museo. Pero lo que tenemos ante nosotros es una moto tremendamente moderna, una deportiva a la última, que siguiendo la línea de la naked clásica de la que ya os hemos hablado, la Yamaha XSR900, toma la imagen de un mito de los circuitos, la Yamaha YZR500, para traer a nuestros tiempos todo su estilo y elegancia. Con aspecto de moto de los años setenta, la Yamaha XSR900 GP es un prodigio técnico que se renueva con MY 2027: chasis Deltabox, motor tricilíndrico de 890 centímetros cúbicos y 119 CV de potencia, a la última en tecnología. Potente, rápida, moderna… y aún con todo con un precio bastante razonable. Un homenaje a las deportivas de los 70 y los 80 La XSR900 GP recupera la imagen de las motos de competición que marcaron la época dorada del motociclismo y que nos recuerdan a pilotos de la talla de Giacomo "
+      "summary": "¿Buscando un coche eléctrico de tamaño compacto y diseño sugerente pero los disparatados precios de algunos modelos te alejan demasiado de ese objetivo? Ojito a este nuevo japonés que ya puedes comprar en España y que llega con una relación valor-precio tan favorable que el propio Toyota C-HR+ ya tiene en él su mayor problema... y es que en cierto modo, son iguales. Con 169 CV de potencia Tracción delantera Equipo completo Etiqueta CERO El Subaru Uncharted ya está a la venta en España y llega para hacerse un hueco entre los SUV eléctricos de tamaño compacto. Este modelo, desarrollado junto a Toyota, comparte prácticamente todo con el C-HR+, aunque hay una diferencia importante en sus respectivas gamas. Por ahora, Subaru se queda en nuestro país con las versiones más asequibles, una ventaja que puede resultar decisiva para quienes buscan gastar lo menos posible. Prestaciones correctas La "
     },
     {
-      "url_key": "https://www.diariomotor.com/competicion/noticia/alex-lynn-nuevo-fichaje-de-mclaren/",
-      "title": "Alex Lynn es el nuevo fichaje de McLaren en el WEC tras Cadillac romper su contrato",
+      "url_key": "https://www.diariomotor.com/noticia/caselani-furgonetas-inspiradas-2cv/",
+      "title": "Tiene licencia Citroën y es el 2CV furgoneta que puedes comprar hoy mismo, sin esperar a que los prototipos se hagan realidad",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/competicion/noticia/alex-lynn-nuevo-fichaje-de-mclaren/",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/caselani-furgonetas-inspiradas-2cv/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Hoy se ha confirmado lo que se venía rumorando desde hace varias semanas atrás, Cadillac Team Jota anunció la salida de Alex Lynn y de Sebastien Bourdais con efecto inmediato y por lo tanto confirma que António Félix da Costa y Ricky Taylor serán sus reemplazos. En tal sentido, de inmediato McLaren comunicó que Lynn ha sido firmado como parte de la tripulación del MCL-HY que debutará el año que viene en la clase Hypercar del WEC. Estaba cantada la salida de Lynn de Cadillac Racing puesto que este año se sometió a una operación en su cuello y no ha estado disponible desde entonces, así que prácticamente el británico se tomó un año sabático y reaparecerá el año que viene uniéndose a Mikkel Jensen y Laurens Vanthoor en la formación titular de la estructura papaya. Lynn es otro de los tantos pilotos que tras no llegar a la Fórmula 1, luego de recorrer las series de formación, se pasó a los c"
+      "summary": "Últimamente tenemos al Citroën 2CV hasta en la sopa y no es para menos después de que la marca revelara por fin su prototipo Durante el Salón del Automóvil de París. A este concept le acompaña también su versión 2CV Furgoneta con unos render, pero lo que no sabe la mayoría es que hay Citroën 2CV furgoneta nuevos y modernos que se venden desde hace unos años. Te presento a Caselani, un preparador italiano certificado por Citroën para hacer kits de carrocería inspirados en los Citroën de antaño. Modelos de Caselani Caselani Furgonnette (Citroën Berlingo inspirada en el Citroën 2CV) Caselani Type AMI (Citroën AMI inspirado en el Citroën HY) Caselani Type HG (Citroën Jumpy inspirada en el Citroën Type G de 1948) Caselani H (Citroën Jumper inspirada en el Citroën HY) Caselani Furgonnette Caselani Type AMI Caselani Type HG Caselani Type H Aunque el fuerte de Caselani eran las furgonetas, en 20"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/bmw-f-900-r-black-edition/",
-      "title": "Solo habrá 100 y cuestan 8.990 €, muy buen precio para una BMW de 105 CV que trae tecnología de la S 1000 R y más barata que la Honda CB650R",
+      "url_key": "https://www.diariomotor.com/noticia/tesla-roadster-2028-presentacion/",
+      "title": "Tesla presenta lo más alucinante que hayamos visto nunca, el último Tesla que podrás conducir es capaz de volar",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/bmw-f-900-r-black-edition/",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/tesla-roadster-2028-presentacion/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "No hace falta gastarse una fortuna para tener una BMW deportiva, potente y con alguna tecnología de sus hermanas mayores. La marca alemana acaba de presentar la BMW F 900 R Black Edition, una edición especial de su naked de media cilindrada que combina una estética completamente negra, un motor bicilíndrico de 105 CV y algunos elementos tecnológicos inspirados en la espectacular S 1000 R. Y todo ello por 8.990 euros, una rebajita importante respecto a su precio normal. Una BMW deportiva vestida de negro y con mucha tecnología Edición limitada a 100 unidades, con acabado Triple Black Motor bicilíndrico de 895 cc, 105 CV y 93 Nm de par Cambio rápido sin embrague y modos de conducción Pro de serie La F 900 R ya era una de las propuestas más interesantes de BMW para quienes buscan una moto deportiva sin necesidad de dar el salto a un misil de 180 o 200 CV. Una roadster sin carenado, con una "
+      "summary": "Si algo saben Elon Musk y los suyos es cómo crear un gran espectáculo y dar mucho de qué hablar. Elon había prometido un Tesla capaz de volar. Y lo han conseguido. Elon prometía estos días que llevarían a cabo la presentación de producto más espectacular de la historia. Juzguen ustedes mismos, pero yo también diría que lo han conseguido. Tesla y SpaceX han creado un deportivo eléctrico que puede despegar del suelo, impulsado por un sistema de propulsores de aire comprimido. El nuevo Roadster promete acelerar de 0 a 60 mph en menos de un segundo, superar los 370 km/h y ofrecer una adherencia extraordinaria. Elon Musk anuncia su producción para 2028, casi una década después de la primera presentación de esta generación. Tesla acaba de presentar lo más alucinante que probablemente hayas visto nunca. El nuevo Tesla Roadster ya está aquí, comenzará a venderse en 2028, y estará dotado con prop"
     },
     {
-      "url_key": "https://www.diariomotor.com/competicion/noticia/josh-pierson-a-j-foyt-racing-indycar/",
-      "title": "Josh Pierson con vía libre para fichar con A.J. Foyt Racing en la IndyCar",
+      "url_key": "https://www.diariomotor.com/noticia/zontes-703t-precio/",
+      "title": "Así es la nueva todoterreno y todoasfalto que quiere cambiarlo todo, a precio de scooter y con 3 cilindros y 95 CV",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/competicion/noticia/josh-pierson-a-j-foyt-racing-indycar/",
-      "published_at": "2026-10-15",
+      "url": "https://www.diariomotor.com/noticia/zontes-703t-precio/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Tras implementarse el proceso que concede licencias para competir en la IndyCar, sin necesidad de brillar en la Indy NXT, el primer favorecido con las evaluaciones fue Josh Pierson, quien a sus 20 años solicitó el permiso especial para ascender a la principal categoría de monoplazas en los Estados Unidos. Pierson viene de culminar en el puesto once en su reciente temporada en la Indy NXT, su cuarta desde que decidió pasarse de los coches deportivos a los monoplazas. El piloto estadounidense se presentó como una gran revelación al conseguir un tercer lugar en el Campeonato Mundial de Resistencia, clase LMP2 con United Autosports, en el año 2022, cuando contaba con 16 años de edad. Pero luego trató de consolidarse y no le ha resultado tan sencillo, hasta el punto de ser el primer piloto en solicitar una excepción para estar en la IndyCar sin reunir los méritos las series de formación. La I"
+      "summary": "El mercado se ha vuelto loco. Y en esa locura está habiendo marcas que, sin duda, están venciendo. Zontes es una de ellas. Mientras escribo estas líneas, Zontes es - con mucha diferencia - la marca de motos más vendida en España, arrasando primero con sus scooter para el A2, y el tremendo éxito que supuso la llegada de Zontes 368G, arrasando ahora también en los 125 centímetros cúbicos, con sus 125X y 125V. Pero si te parece espectacular lo que ofrecen sus scooter, para su precio, las verdaderas sorpresas llegan cuando nos vamos a su gama alta. Zontes ha puesto en el mercado un catálogo que no deja de crecer de motos tricilíndricas, con 699 centímetros cúbicos y 95 CV de potencia - lógicamente limitables para el A2 - a precios más propios de un scooter. Así las cosas Zontes tiene una todoterreno, su propia Ténéré, por 7.288 euros. Así las cosas Zontes acaba de lanzar su nueva 703T, más t"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/geely-monjaro-precio/",
-      "title": "Lo último de Geely es un lujoso D-SUV con 334 CV, etiqueta CERO y tracción total por 35.000 € menos",
+      "url_key": "https://electrek.co/2026/10/16/montreal-airport-120-ev-chargers-with-48-more-coming/",
+      "title": "This Montréal airport now has 120 EV chargers, with 48 more on the way",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/geely-monjaro-precio/",
-      "published_at": "2026-10-15",
+      "url": "https://electrek.co/2026/10/16/montreal-airport-120-ev-chargers-with-48-more-coming/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Presentado oficialmente hace unos días en su versión específica para el mercado europeo, ahora llega a España este refinado e interesante D-SUV con tecnología híbrida enchufable del tamaño de un Volvo XC60, Mercedes GLC o BMW X3 pero por mucho menos dinero, toda una ganga que muy posiblemente se convierte en un éxito de ventas en cuestión de unos meses. Por estética, acabados y equipo no hay muchas alternativas que puedan hacerle sombra. Solo con motor híbrido Plug-In Tracción total a las cuatro ruedas Autonomía eléctrica de 116 km Enorme maletero El nuevo Geely Monjaro EM-i ya se puede comprar en España, solo unos días después de su debut en el Salón del Automóvil de París. Las primeras unidades de este D-SUV llegarán a los concesionarios en unas semanas pero los interesados ya pueden formalizar los pedidos, llevándose además gratis el coste de la pintura metalizada, un extra valorado e"
+      "summary": "Montréal Metropolitan Airport now has 120 EV chargers online, with another 48 on the way as the airport expands. more…"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/big-3-europa-coche-electrico/",
-      "title": "Ante la imposición del coche eléctrico, Renault, Volkswagen y Stellantis, el 'Big-3' de la industria en Europa, se unen frente a la UE",
+      "url_key": "https://electrek.co/2026/10/16/podcast-the-tesla-roadster-episode/",
+      "title": "Podcast: The Tesla Roadster episode",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/big-3-europa-coche-electrico/",
-      "published_at": "2026-10-15",
+      "url": "https://electrek.co/2026/10/16/podcast-the-tesla-roadster-episode/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "La industria del automóvil europea tiene que afrontar la transición hacia el coche eléctrico al mismo tiempo que ve cómo los fabricantes chinos ganan terreno en su propio mercado con coches que no son eléctricos, sino híbridos y de gasolina, en su mayoría, lo que debilita las cuentas de los del Viejo Continente debido a la cuota de mercado que pierden y que debería servirles como apoyo para seguir invirtiendo en I+D para el desarrollo de coches y tecnología eléctrica. Y es que, mientras las marcas adaptan sus fábricas y sus gamas a los objetivos de emisiones de la Unión Europea, sus nuevos rivales siguen aumentando sus ventas con coches baratos que cada vez resultan más conocidos en nuestras calles. Por esta misma razón estamos viendo que tanto Renault como Volkswagen o Stellantis están apostando por resucitar coches clásicos en formato moderno, como el recién presentado Citroën 2CV, una"
+      "summary": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll focus on the Tesla Roadster unveiling, but we may also cover a few other topics. more…"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/dethleffs-xl-a-7822-2/",
-      "title": "Parece un piso, pero este salón panorámico donde cabe una TV de 32 pulgadas va dentro de una autocaravana de casi 8,6 metros y 3.952 kg",
+      "url_key": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/",
+      "title": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/dethleffs-xl-a-7822-2/",
-      "published_at": "2026-10-15",
+      "url": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "La nueva Dethleffs XL A 7822-2 propone algo interesante: prescindir del dormitorio convencional para convertir la parte trasera en un enorme salón panorámico. Las camas se trasladan sobre la cabina, el televisor desaparece dentro de un mueble y el baño se transforma en vestidor. Eso sí: sus dimensiones y sus 5.400 kg de masa máxima la alejan de una camper para principiantes. Un salón trasero que hace innecesario tener un dormitorio fijo Dethleffs presenta la XL A 7822-2 como una distribución especialmente concebida para parejas que quieren viajar con mucho espacio durante el día, sin renunciar a recibir invitados. Su gran diferencia respecto a una autocaravana convencional está justo al fondo. En lugar de una cama fija encontramos un salón en forma de U, rodeado por grandes ventanas y cubierto por dos claraboyas panorámicas de 75 x 105 centímetros. La mesa cuenta con pie independiente y "
+      "summary": "Canadian EV customers are delaying buying decisions while they wait for more Chinese EVs to reach their shores, according to a new survey, suggesting widespread awareness of China’s EV dominance is causing EV buyers to ignore Western automakers’ offerings entirely. more…"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/ford-ranger-ms-rt-champion-edition/",
-      "title": "Ford ha creado una pick-up inspirada en los míticos Sierra y Escort Cosworth, con motor V6, suspensión rebajada 40 mm y muy exclusiva",
+      "url_key": "https://electrek.co/2026/10/16/lectric-e-bike-spooky-sale-worx-snow-blower-jackery-1024wh-v2-power-station-more/",
+      "title": "Lectric treats riders with up to $762 e-bike savings in spooky sale, Worx snow blower, Jackery 1,024Wh V2 power station, more",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/ford-ranger-ms-rt-champion-edition/",
-      "published_at": "2026-10-15",
+      "url": "https://electrek.co/2026/10/16/lectric-e-bike-spooky-sale-worx-snow-blower-jackery-1024wh-v2-power-station-more/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Normalmente las pick-ups están pensadas para trabajar, pero no es el caso de la Ford Ranger MS-RT Champion Edition, que parece más bien una pick-up de carreras para la calle. Es una edición especial limitada a 500 unidades, con motor V6 diésel o una mecánica híbrida enchufable, y una estética que rinde homenaje a dos de los Ford más míticos de la historia: el Sierra RS500 Cosworth y el Escort RS Cosworth. Un Ford Ranger con espíritu de Cosworth Vinilos decorativos dorados sobre la carrocería Llantas MS-RT de 21\" en color dorado y acabado diamantado Volante deportivo con costuras doradas y marca a las 12 Asientos deportivos de cuero sintético y ante, con costuras en dorado Placa identificativa Champion Edition Los aficionados a los rallyes seguramente recordarán aquellos Ford de los años 80 y 90 con alerones enormes, pasos de rueda ensanchados y una estética que no dejaba indiferente a na"
+      "summary": "Closing out this week’s Green Deals is Lectric’s freshly launched Spooky Sale with up to $762 e-bike bundle savings (that include two FREE mystery gifts) starting from $999. Right behind that group of treats is the Worx 40V 20-inch Cordless Electric Snow Thrower with 2x 6.0Ah batteries down at $395, as well as the Jackery HomePower 1000 V2 1,024Wh Portable Power Station for $549 that is part of the brand’s Power Outage Ready Sale lineup. We also rounded up a bunch of Greenworks chainsaw deals, like the 24V 6-inch Cordless Electric Mini Chainsaw at $95, and spotted the first Amazon deal on BougeRV’s Lightweight Foldable Electric Wagon with a 360-pound payload capacity. All these and more wait for you below, including the hangover deals from this week at the bottom of the page, like the yesterday’s $550 FREE extra battery Velotric Nomad 2 e-bike bundle, the kids-friendly Hiboy electric dir"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/ariic-318gt-s-primeras-imagenes/",
-      "title": "Parece la Forza 350 de Ducati, pero es un maxiscooter que llega con diseño GTI para el carnet A2",
+      "url_key": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
+      "title": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/ariic-318gt-s-primeras-imagenes/",
-      "published_at": "2026-10-15",
+      "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Que las chinas están invadiendo a una velocidad inusitada el mercado de la motocicleta en Europa, es algo que ya sabemos, y a tenor de las noticias sobre nuevos lanzamientos que llegan, parece que también quieren posicionar modelos donde las marcas tradicionales no lo hacen de manera clara. Un claro ejemplo de ello es el maxiscooter cuyas imágenes dan forma a la galería inferior, pues traslada de manera clara el concepto de un GTI al mundo de las dos ruedas, algo que no se puede encontrar en Europa en ninguna otra marca, de momento, aunque haya modelos de orientación algo más deportiva que otros, pero no de vocación claramente deportiva dentro del segmento de los scooter. Se llama Ariic 318GT-S y, efectivamente, es una versión más deportiva, o al menos de diseño más deportivo, y equipada de la 318 que ya conocemos. Y es que, aunque conserva el número 318 en su denominación, bajo su carro"
+      "summary": "Two California Highway Patrol officers are recovering from serious injuries after a Tesla drove into their patrol car at a crash scene on Interstate 80 in Fairfield. The 22-year-old driver told investigators he was asleep with Tesla’s “Full Self-Driving” engaged. CHP released dashcam video of the impact on Thursday. It’s the latest Tesla to plow into an emergency scene, a failure federal regulators started investigating five years ago. more…"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/avatr-lanzamiento-espana-nuevos-detalles/",
-      "title": "AVATR, la Mercedes de Changan, inicia en España su desembarco europeo",
+      "url_key": "https://electrek.co/2026/10/16/volkswagen-is-recalling-thousands-of-evs-including-the-id-4/",
+      "title": "Volkswagen is recalling ‘several thousand’ EVs, including the ID.4, and not just in the US",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/avatr-lanzamiento-espana-nuevos-detalles/",
-      "published_at": "2026-10-15",
+      "url": "https://electrek.co/2026/10/16/volkswagen-is-recalling-thousands-of-evs-including-the-id-4/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "El mercado de los fabricantes de coches premium da la bienvenida a una nueva marca en España. Desconocida por el gran público, viene respaldada por un gigante automovilístico chino junto a dos de las mejores socias tecnológicas del momento, y aunque su nombre recuerda mucho a una superproducción de Hollywood, en apenas tres años pretende poner en las calles seis coches que apuntan directamente a Mercedes. AVATR es el nombre de este nuevo fabricante de coches premium que acaba de aterrizar en España. Hablamos de una firma creada por el gigante chino Changan, que ya opera en nuestro país con modelos como el Deepal S05. Sin embargo la apuesta de AVATR es mucho más ambiciosa, pues apunta bastante más alto en el mercado, concretamente a firmas como Mercedes, Audi o BMW, contando para ello con el respaldo adicional de CATL y Huawei en todo lo que respecta a baterías, infoentretenimiento, conec"
+      "summary": "Volkswagen is set to recall “several thousand” electric vehicles, including the ID.4 and ID. Buzz. The company is urging owners to limit charging to 80% until a fix is available. more…"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/xpeng-l03-precio/",
-      "title": "Más de 1.000 km de autonomía, 242 CV y un diseño rompedor, así es el nuevo rival del Mercedes GLA a precio de generalista",
+      "url_key": "https://electrek.co/2026/10/16/kia-launches-first-remote-driving-car-sharing-service-with-pv5/",
+      "title": "Kia launches first-of-its-kind remote driving car-sharing service with the PV5 EV van",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/xpeng-l03-precio/",
-      "published_at": "2026-10-15",
+      "url": "https://electrek.co/2026/10/16/kia-launches-first-remote-driving-car-sharing-service-with-pv5/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Hasta ahora la oferta de Xpeng para el mercado español se había centrado en vehículos 100% eléctricos. Desde esta misma semana puedes reservar en nuestro país su primer vehículo que utiliza gasolina para cubrir largas distancias aunque en el día a día con enchufarlo tendrás más que suficiente. Por diseño, acabados y precio también resulta muy apetecible. Con 242 CV de potencia Equipo completo Más de 200 km eléctricos Estética peculiar El nuevo Xpeng L03 ya se puede reservar en España y las primeras unidades llegarán el próximo mes de diciembre. La marca pone a la venta por ahora las versiones eléctricas de autonomía extendida y, ya en 2027, se sumarán las versiones deportivas \"Ultra\" y una variante 100% eléctrica perfecta para los que piensan que la gasolina ya forma parte del pasado. Batería de generoso tamaño La motorización con la que se estrena el Xpeng L03 es de tipo REEV, es decir,"
+      "summary": "Kia launched a first-of-its-kind remote car-sharing program in Korea using the PV5 electric van. more…"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/kawasaki-versys-900-2027/",
-      "title": "122 CV, cuatro cilindros y radar: la nueva Kawasaki viajera quiere ser una deportiva para todos los días",
+      "url_key": "https://electrek.co/2026/10/16/solar-panels-are-bringing-idle-cranberry-bogs-back-to-life/",
+      "title": "Solar panels are bringing idle cranberry bogs back to life",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/kawasaki-versys-900-2027/",
-      "published_at": "2026-10-15",
+      "url": "https://electrek.co/2026/10/16/solar-panels-are-bringing-idle-cranberry-bogs-back-to-life/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Aunque tiene postura erguida de trail, la nueva Kawasaki Versys 900 no pretende ser una moto para recorrer caminos. Su terreno es el asfalto y su idea central es ofrecer la suavidad y la emoción de un cuatro cilindros de 122 CV, pero con postura erguida, buena protección aerodinámica y espacio para viajar con pasajero y tres maletas. Un cuatro cilindros que cambia su manera de viajar Motor de cuatro cilindros, 948 cm³ y 122 CV Primera Versys con control de crucero adaptativo y detector de ángulo muerto Asiento regulable entre 825 y 845 mm Versión de 70 kW limitable a 35 kW para el A2 Kawasaki no ha creado una pequeña Versys 1100 ni una simple evolución de la 650. La 900 ocupa el hueco entre ambas y cambia la receta habitual del segmento, dominado por motores bicilíndricos o tricilíndricos, con un propulsor derivado de la familia Z. El bloque de 948 cm³ entrega 122 CV a 9.500 rpm y 97,3 N"
+      "summary": "Two Massachusetts cranberry bogs that had stopped making financial sense to farm are growing berries again – with solar panels overhead helping pay the bills. more…"
     },
     {
-      "url_key": "https://www.diariomotor.com/noticia/secreto-detras-citroen-2cv/",
-      "title": "Así será el Citroën 2CV 2028... y el secreto detrás del regreso de este clásico",
+      "url_key": "https://electrek.co/2026/10/16/this-cool-accessory-turns-your-bike-electric-in-just-three-seconds/",
+      "title": "This cool accessory turns your bike electric in just three seconds",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/noticia/secreto-detras-citroen-2cv/",
-      "published_at": "2026-10-15",
+      "url": "https://electrek.co/2026/10/16/this-cool-accessory-turns-your-bike-electric-in-just-three-seconds/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "No exagero si digo que la posibilidad de que Citroën lanzase una reinterpretación del 2CV lleva comentándose desde que me dedico a esta modesta labor de los medios del motor. Y eso son muchos años. El regreso del Citroën 2CV por fin se ha materializado. Y aquí lo tenemos, de momento como un anticipo de lo que será el modelo definitivo que sí llegará a los concesionarios. Tenemos su silueta redondeada, sus aletas ensanchadas, sus ojos saltones. Huelga decir que el sabor retro, el sabor clásico, juega un papel fundamental en este producto. Como lo está jugando en el Renault 5 y, tal y como os venimos contando, como lo debería jugar en un nuevo Peugeot 208 que la marca francesa nos ha anticipado con un prototipo que reinterpreta la imagen del 205 T16. Pero el verdadero secreto del nuevo Citroën 2CV va mucho más allá de su imagen. El nuevo 2CV adelanta el E-Car, una plataforma pensada para c"
+      "summary": "There are plenty of e-bike conversion kits designed to turn your existing bicycle electric, but most involve at least a bit of wrenching. Spiny 2 takes a different approach, using a removable friction-drive system that can apparently snap onto your bike in just three seconds. more…"
     },
     {
-      "url_key": "https://www.diariomotor.com/motos/oferta-hero-xoom-125-oct/",
-      "title": "Pequeña, manejable y por solo 1.888 €, esta nueva scooter de 125 llega para conquistarte con su diseño deportivo y no, no es china",
+      "url_key": "https://electrek.co/2026/10/16/waymo-toronto-canada-robotaxi-2028/",
+      "title": "Waymo picks Toronto as first Canadian city, targets riders in 2028",
       "source": "unknown",
       "host": "",
-      "url": "https://www.diariomotor.com/motos/oferta-hero-xoom-125-oct/",
-      "published_at": "2026-10-15",
+      "url": "https://electrek.co/2026/10/16/waymo-toronto-canada-robotaxi-2028/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "El mercado de los scooters baratos tiene un nuevo inquilino y viene con ganas de dar guerra. Acaba de poner un pie en España y ya tiene una moto con la que sacar los colores a más de una marca conocida. Estética macarra, equipamiento más que decente y un precio de esos que obligan a mirar dos veces la etiqueta. Porque cuesta lo que muchos ciclomotores, pero ofrece bastante más a cambio. Pequeña y manejable Diseño deportivo Mecánica eficiente Hueco para un casco La Hero Xoom 125 acaba de estrenarse en España y tiene todas las papeletas para dar algún que otro disgusto a sus rivales. Es el primer scooter que la marca india se atreve a traer a Europa y lo hace con una receta que suele funcionar bastante bien. Un diseño resultón, una dotación más que razonable y, sobre todo, un precio de los que hacen daño. Desde luego, no lo va a tener fácil la competencia entre los 125 más baratos. Refrige"
+      "summary": "Waymo is bringing its robotaxis to Canada, and Toronto is first. Its cars will start driving the city’s streets in the coming days, and the company wants its first public riders on board in 2028. That makes Toronto Waymo’s fourth announced market outside the US, after London, Tokyo, and Singapore. But there’s a catch: Ontario doesn’t have rules for a commercial driverless service yet. more…"
     },
     {
-      "url_key": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/",
-      "title": "Europe’s EV sales soar as North America drops 44% – here’s the catch",
+      "url_key": "https://insideevs.com/features/812277/paris-auto-show-recap-2026/",
+      "title": "European Car Companies Can't Compete With Chinese Tech. In Paris, They Leaned On 'Heritage' Instead",
       "source": "unknown",
       "host": "",
-      "url": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/",
-      "published_at": "2026-10-15",
+      "url": "https://insideevs.com/features/812277/paris-auto-show-recap-2026/",
+      "published_at": "2026-10-16",
       "market": "EU",
       "beam": "history",
-      "summary": "Europe’s EV sales just posted a record September, as global market growth shifts toward Europe and beyond its largest established markets. more…"
+      "summary": "Is that enough to fend off a growing cadre of Chinese competitors in their home market? I’m not so sure."
     }
   ]
 }
